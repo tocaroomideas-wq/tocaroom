@@ -1,16 +1,23 @@
 [
   {
     "id": 1,
-    "title": "Aesthetic Pastel Pink Bedroom",
-    "category": "Bedroom",
-    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800",
+    "title": "Aesthetic Pastel Pink Kitchen",
+    "category": "Kitchen",
+    "imageUrl": "https://i.pinimg.com/1200x/9d/33/4a/9d334a90913cf3a96165b06b17ca1ea4.jpg",
     "description": "Desain kamar tidur dengan nuansa pink pastel yang imut dan aesthetic."
   },
   {
     "id": 2,
     "title": "Aesthetic Yellow Kitchen",
     "category": "Kitchen",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/79/39/4b/79394b134fb5cc5d257607a50457bfb7.jpg",
+    "description": "Dapur minimalis dengan dekorasi lemari berwarna kuning pastel yang hangat."
+  },
+  {
+    "id": 3,
+    "title": "Aesthetic Wow Kitchen",
+    "category": "Kitchen",
+    "imageUrl": "https://i.pinimg.com/1200x/b1/00/19/b100195f15d76ba0903e5f4772260d71.jpg",
     "description": "Dapur minimalis dengan dekorasi lemari berwarna kuning pastel yang hangat."
   }
 ]
