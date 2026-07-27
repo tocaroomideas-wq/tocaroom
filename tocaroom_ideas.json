@@ -3,7 +3,14 @@
     "id": 1,
     "title": "Aesthetic Pastel Pink Bedroom",
     "category": "Bedroom",
-    "imageUrl": "https://images.unsplash.com/...jpg",
-    "description": "Dreamy pastel pink bedroom layout."
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800",
+    "description": "Desain kamar tidur dengan nuansa pink pastel yang imut dan aesthetic."
+  },
+  {
+    "id": 2,
+    "title": "Aesthetic Yellow Kitchen",
+    "category": "Kitchen",
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800",
+    "description": "Dapur minimalis dengan dekorasi lemari berwarna kuning pastel yang hangat."
   }
 ]
