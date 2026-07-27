@@ -19,5 +19,40 @@
     "category": "Kitchen",
     "imageUrl": "https://i.pinimg.com/1200x/b1/00/19/b100195f15d76ba0903e5f4772260d71.jpg",
     "description": "Dapur minimalis dengan dekorasi lemari berwarna kuning pastel yang hangat."
+  },
+  {
+    "id": 4,
+    "title": "Room Aesthetic Kitchen",
+    "category": "Kitchen",
+    "imageUrl": "https://i.pinimg.com/vwebp/1200x/ba/5e/91/ba5e91f9549583d2e4811c5a70f49105.webp",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "Living Room Aesthetic Idea",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/e6/07/ed/e607ede2457eef9b164450648957eeb0.jpg",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "title": "Living Room Dream",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/c3/da/59/c3da59a83026e97fa041ad0238ebe3f9.jpg",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "title": "Best Living Room Ideas",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/69/ed/bc/69edbc9d95574b79c2e6270a5a1e5d2d.jpg",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "title": "Living Room Ideas Amazing",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/0d/ab/1e/0dab1e6203c3ca4e72bef13af313aecb.jpg",
+    "description": ""
   }
 ]
