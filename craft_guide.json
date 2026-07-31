@@ -1,1 +1,493 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Modern Wooden House",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+    "difficulty": "Easy",
+    "description": "A beautiful starter home combining oak logs, cobblestone, and glass panes. Perfect for your first survival night!",
+    "materials": {
+      "Oak Wood Log": "24",
+      "Oak Wood Planks": "64",
+      "Cobblestone": "32",
+      "Glass Pane": "12",
+      "Oak Door": "1",
+      "Torch": "4"
+    },
+    "steps": [
+      "Build a 5x5 cobblestone foundation on a flat surface.",
+      "Erect 4-block-tall oak log pillars on the corners of the foundation.",
+      "Fill the walls with oak planks, leaving spaces for windows and a door.",
+      "Install glass panes in the window frames and place the oak door at the front.",
+      "Create a simple sloped roof using oak wood stairs.",
+      "Decorate the interior with a bed, crafting table, furnace, and torches."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Automatic Sugarcane Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
+    "difficulty": "Easy",
+    "description": "An easy-to-build, fully tileable sugarcane harvester. Perfect for getting papers and books for your enchantment setups.",
+    "materials": {
+      "Piston": "8",
+      "Observer": "8",
+      "Redstone Dust": "8",
+      "Sugarcane": "8",
+      "Water Bucket": "1",
+      "Sand Block": "8",
+      "Hopper": "2",
+      "Chest": "2"
+    },
+    "steps": [
+      "Dig an 8-block long trench, place water at one end, and line the side with sand blocks.",
+      "Plant sugarcane on all sand blocks next to the flowing water.",
+      "Place a solid building block line behind the sugarcane, and place pistons on top facing the sugarcane.",
+      "Place observers on top of the pistons facing the sugarcane fields.",
+      "Place redstone dust on a line of blocks directly behind the pistons.",
+      "Place hoppers at the end of the water flow stream to collect broken sugarcane into chests."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Medieval Castle Watchtower",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
+    "difficulty": "Medium",
+    "description": "A sturdy lookout tower designed to defend your village. Built mainly with stone bricks, cobblestone, and spruce wood accents.",
+    "materials": {
+      "Stone Bricks": "128",
+      "Cobblestone": "64",
+      "Spruce Wood Planks": "32",
+      "Spruce Fences": "16",
+      "Stone Brick Stairs": "28",
+      "Ladders": "12"
+    },
+    "steps": [
+      "Lay down a circular stone brick foundation with a diameter of 5 blocks.",
+      "Raise the stone brick walls to a height of 10 blocks, leaving narrow slit openings for archery slots.",
+      "Add cobblestone accents and details randomly throughout the walls to give it a weathered look.",
+      "Build a spruce wood platform inside at the top of the tower, and install ladders to climb up.",
+      "Construct battlements at the top using stone brick blocks and stairs to provide cover.",
+      "Hang lanterns on spruce fences from the top deck for atmospheric lighting."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Multi-Item Sorter System",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800",
+    "difficulty": "Medium",
+    "description": "A sorting engine to automatically filter your chests. Lock hoppers with comparator signals to sort items cleanly.",
+    "materials": {
+      "Redstone Comparator": "4",
+      "Redstone Repeater": "4",
+      "Redstone Torch": "4",
+      "Redstone Dust": "12",
+      "Hopper": "12",
+      "Chest": "8",
+      "Renamed Filter Item": "16"
+    },
+    "steps": [
+      "Stack double chests vertically to act as sorted item vaults.",
+      "Attach hoppers into the back of each chest pointing forward.",
+      "Place redstone comparators facing away from the top-middle hoppers.",
+      "Wire a redstone line with repeaters leading down into blocks with redstone torches.",
+      "The redstone torches will power lock the hoppers below.",
+      "Fill the top hoppers with 18 of the item you want to sort, and fill the remaining 4 slots with renamed placeholder blocks."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Luxury Modern Mansion",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800",
+    "difficulty": "Hard",
+    "description": "A multi-level dream home featuring smooth quartz blocks, black stained glass panels, and a gorgeous swimming pool.",
+    "materials": {
+      "Smooth Quartz Block": "256",
+      "Gray Concrete": "128",
+      "Black Glass Pane": "64",
+      "Water Bucket": "2",
+      "Dark Oak Door": "2",
+      "Glowstone": "16"
+    },
+    "steps": [
+      "Trace a large 15x20 block outline using gray concrete on a flat meadow.",
+      "Build multi-level rectangular frames to establish the distinct modernist shapes.",
+      "Fill the outer walls with smooth white quartz blocks and construct a roof platform.",
+      "Insert panoramic black stained glass panes for windows.",
+      "Excavate a 5x10 swimming pool in the front yard and fill it with flowing water.",
+      "Add glowing illumination by embedding glowstone blocks into the ceilings and pool floor."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Automatic Wool Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=800",
+    "difficulty": "Easy",
+    "description": "A simple, expandable farm that shears sheep automatically using observers and shear dispensers.",
+    "materials": {
+      "Dispenser": "1",
+      "Observer": "1",
+      "Redstone Dust": "1",
+      "Glass Block": "8",
+      "Grass Block": "2",
+      "Shears": "9",
+      "Hopper": "1",
+      "Chest": "1"
+    },
+    "steps": [
+      "Place a chest on the ground and attach a hopper leading into it.",
+      "Place a grass block directly above the hopper, surrounded by glass walls.",
+      "Insert an observer directly behind the grass block, looking towards it.",
+      "Place a dispenser directly on top of the observer, facing into the sheep pen.",
+      "Place one redstone dust on a block behind the observer, underneath the dispenser.",
+      "Load the dispenser with shears, and lead a sheep into the glass containment cell."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Gothic Castle Keep",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800",
+    "difficulty": "Hard",
+    "description": "An imposing dark-themed fortress build utilizing deepslate tile blocks, nether brick stairs, and soul lanterns.",
+    "materials": {
+      "Cobbled Deepslate": "300",
+      "Deepslate Tiles": "150",
+      "Nether Brick Stairs": "64",
+      "Soul Lantern": "12",
+      "Iron Bars": "24",
+      "Spruce Door": "2"
+    },
+    "steps": [
+      "Dig and lay down an 8x8 block cobbled deepslate foundation.",
+      "Raise the walls to 15 blocks tall, tapering inward slightly at the 10th block level.",
+      "Build a spiked crenellated roof using deepslate stairs and blocks.",
+      "Add narrow windows made of iron bars to mimic defensive arrow slits.",
+      "Install spruce double doors at the entry with nether brick stair arches.",
+      "Light up the fortress corners using soul lanterns to create a dark gothic ambience."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Secret Staircase Entry",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+    "difficulty": "Medium",
+    "description": "A hidden piston door that retracts staircase blocks flush into a wall. Perfect for hiding your diamond vaults!",
+    "materials": {
+      "Sticky Piston": "4",
+      "Redstone Repeater": "2",
+      "Redstone Dust": "8",
+      "Wood Stairs": "4",
+      "Wood Planks": "16",
+      "Lever": "1"
+    },
+    "steps": [
+      "Assemble a standard stairs staircase in your base next to a wooden wall.",
+      "Position sticky pistons behind the stairs, pointing inward to pull the steps back.",
+      "Install matching stair blocks onto the piston faces.",
+      "Wire the pistons to repeaters and dust, configuring a 2-tick delay loop.",
+      "Connect the redstone circuit to a hidden trigger lever, such as behind a picture frame or corner block.",
+      "Flip the lever to retract the staircase, exposing a secret room underneath."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Cozy Treehouse Retreat",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1488462237308-ecaa28b729d7?w=800",
+    "difficulty": "Medium",
+    "description": "An organic treehouse designed around a massive jungle tree trunk. Features a wrapping balcony, glass dome, and hanging vines.",
+    "materials": {
+      "Jungle Wood Log": "64",
+      "Jungle Planks": "48",
+      "Jungle Leaves": "128",
+      "Glass Block": "16",
+      "Vines": "12",
+      "Fence": "24",
+      "Ladders": "10"
+    },
+    "steps": [
+      "Locate a giant jungle tree (2x2 logs) or grow one using jungle saplings.",
+      "Install ladders along the trunk to allow climbing up to the branch canopy.",
+      "Construct a circular wooden deck platform wrapped around the branches using jungle planks and fences.",
+      "Build a cozy bedroom cabin within the leaves with glass blocks for windows.",
+      "Add a glass dome roof above the cabin to stargaze during the survival night.",
+      "Detail the exterior platform and trunk using hanging vines and lanterns."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Automatic Chicken Cooker",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1548550022-cbfb40a5a544?w=800",
+    "difficulty": "Easy",
+    "description": "An automated farm that breeds chickens, collects eggs, hatches them, and cooks them using lava.",
+    "materials": {
+      "Hopper": "3",
+      "Dispenser": "1",
+      "Redstone Comparator": "1",
+      "Lava Bucket": "1",
+      "Stone Slab": "1",
+      "Glass Block": "8",
+      "Observer": "1"
+    },
+    "steps": [
+      "Place a hopper leading into a chest, and place a half slab block on top of that hopper.",
+      "Place a dispenser facing the slab. Put a lava bucket directly above the slab space.",
+      "Build glass walls around the slab to contain hatched chicks.",
+      "Place another hopper feeding into the back of the dispenser, with grass blocks above to hold adult breeding chickens.",
+      "Setup a simple redstone comparator clock behind the dispenser to automatically activate and shoot eggs whenever they land inside.",
+      "Hatched chicks will stand on the slab unharmed until they grow up, touching the lava and cooking automatically."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Desert Pyramid Fortress",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1547234935-80c7145ec969?w=800",
+    "difficulty": "Medium",
+    "description": "A grand desert citadel blending smooth sandstone, orange terracotta highlights, and structural defense towers.",
+    "materials": {
+      "Sandstone Block": "200",
+      "Smooth Sandstone": "100",
+      "Orange Terracotta": "48",
+      "Chiseled Sandstone": "16",
+      "Sandstone Stairs": "32",
+      "Iron Bars": "12"
+    },
+    "steps": [
+      "Flatten a 12x12 sand dunes area to lay a sturdy smooth sandstone base.",
+      "Erect the primary outer fortress wall structure using sandstone blocks.",
+      "Build stepped pyramid elevations on the front facade.",
+      "Inlay orange terracotta patterns across the main entry gate and towers.",
+      "Construct watchtowers on both rear corners with iron bars in the arrow slits.",
+      "Create a hidden trapdoor inside leading to a vault guarded by terracotta walls."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "3x3 Piston Door",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "difficulty": "Hard",
+    "description": "A classic flush 3x3 redstone door. Features a double-extender mechanism to pull and push the center block perfectly.",
+    "materials": {
+      "Sticky Piston": "12",
+      "Redstone Dust": "24",
+      "Redstone Repeater": "4",
+      "Redstone Torch": "3",
+      "Observer": "2",
+      "Lever": "1",
+      "Target Block": "1",
+      "Iron Blocks (Door)": "9"
+    },
+    "steps": [
+      "Create the door frame with 3x3 open space.",
+      "Position sticky pistons on the sides and top, pointing inwards to push the border blocks.",
+      "Install a double sticky piston extender at the bottom to control the center block.",
+      "Wire up the top and side pistons with redstone dust and repeaters on the frame.",
+      "Wire the bottom double extender using observers and repeaters to handle the timing pulses.",
+      "Connect the input lever to toggle the state of the door, and adjust tick delays for a smooth animation."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Modern Suburban Villa",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+    "difficulty": "Medium",
+    "description": "A cozy two-story house with a modern flat roof accent, brick highlights, and flower boxes.",
+    "materials": {
+      "White Concrete": "128",
+      "Brick Stairs": "48",
+      "Oak Fence": "12",
+      "Glass Block": "20",
+      "Flower Pot": "4"
+    },
+    "steps": [
+      "Pour a concrete base of 8x10 blocks to set the outline.",
+      "Raise white concrete walls to 3 blocks high and partition spaces for doors.",
+      "Build a second level flooring and construct a wrapping balcony out of oak fences.",
+      "Assemble a sloped side roof out of red brick stairs.",
+      "Insert large glass blocks for modern bay windows.",
+      "Place flower pots on windowsills for suburban aesthetic detail."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Automatic Iron Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1605899435973-ca2d1a8861cf?w=800",
+    "difficulty": "Hard",
+    "description": "An optimized early-game farm that generates iron ingots automatically. Utilizes 3 villagers, a zombie, and a lava kill-chamber.",
+    "materials": {
+      "Building Blocks": "64",
+      "Glass Blocks": "32",
+      "Beds": "3",
+      "Hopper": "3",
+      "Chest": "2",
+      "Water Bucket": "2",
+      "Lava Bucket": "1",
+      "Signs": "4",
+      "Zombie (Named)": "1",
+      "Villagers": "3"
+    },
+    "steps": [
+      "Build an elevated platform 8 blocks above the ground to prevent iron golems spawning outside the chamber.",
+      "Construct a villager holding chamber with 3 beds facing a central zombie cage.",
+      "Trap a zombie inside the central cage and name it using a Nametag to prevent despawning.",
+      "Build a 5x5 spawning platform directly above the villagers, surrounded by walls.",
+      "Create a water flow directing golems to a 2x2 drop chute with hoppers at the bottom.",
+      "Place signs in the chute and add a layer of lava to automatically defeat the golems and collect iron."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Nether Portal Temple",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800",
+    "difficulty": "Medium",
+    "description": "A grand obsidian portal framed inside a nether quartz and basalt shrine.",
+    "materials": {
+      "Obsidian": "14",
+      "Quartz Block": "64",
+      "Polished Basalt": "32",
+      "Soul Lantern": "4",
+      "Flint and Steel": "1"
+    },
+    "steps": [
+      "Construct a standard 4x5 obsidian Nether Portal frame.",
+      "Build polished basalt pillars on both sides of the obsidian frame.",
+      "Construct a gothic-style arch overlay using white quartz stairs and slabs.",
+      "Embed quartz pillars in front to add classical shrine columns.",
+      "Ignite the portal with flint and steel.",
+      "Hang soul lanterns from the quartz arch to provide a chilling blue light highlight."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "TNT Cannon Launcher",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=800",
+    "difficulty": "Easy",
+    "description": "A simple redstone cannon that launches primed TNT blocks into the air.",
+    "materials": {
+      "Obsidian": "12",
+      "Redstone Dust": "10",
+      "Water Bucket": "1",
+      "Stone Slab": "1",
+      "Redstone Repeater": "4",
+      "Stone Button": "1",
+      "TNT Block": "8"
+    },
+    "steps": [
+      "Construct a U-shaped channel of obsidian blocks measuring 3 blocks wide and 8 blocks long.",
+      "Pour a water source block at the closed end of the channel.",
+      "Place a stone slab at the far open end of the channel to stop water from spilling.",
+      "Run redstone lines along both side rails of the channel.",
+      "Insert 4 repeaters set to full 4-tick delay along one rail side to delay launching the projectile TNT.",
+      "Place a button at the back, load TNT inside the water stream, and press to launch."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Cozy Igloo Shelter",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+    "difficulty": "Easy",
+    "description": "A dome-shaped snow house built with ice and snow blocks. Features a fire pit and carpets to keep warm.",
+    "materials": {
+      "Snow Block": "64",
+      "Packed Ice Block": "12",
+      "Campfire": "1",
+      "Red Carpet": "8",
+      "Oak Sign": "2"
+    },
+    "steps": [
+      "Clear a flat 6x6 circle space on a snow biome.",
+      "Build a hemispherical dome walls using snow blocks, leaving an entry tunnel.",
+      "Use packed ice blocks for small side windows to let natural light filter in.",
+      "Place a campfire in the center of the floor as a fireplace source.",
+      "Lay red carpet blocks on the floor around the campfire for insulation."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Automatic Pumpkin & Melon Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
+    "difficulty": "Easy",
+    "description": "A fully automatic melon and pumpkin harvester that breaks blocks instantly when they grow.",
+    "materials": {
+      "Piston": "4",
+      "Observer": "4",
+      "Redstone Dust": "4",
+      "Melon Seed": "2",
+      "Pumpkin Seed": "2",
+      "Water Bucket": "1",
+      "Hopper": "2",
+      "Chest": "2"
+    },
+    "steps": [
+      "Dig water source channels to hydrate the farming land.",
+      "Plant melon and pumpkin seeds in alternating plowed soil tiles.",
+      "Place observers directly looking down at the melon and pumpkin stem growth spots.",
+      "Position standard pistons adjacent to the stems, pointing at the spot where the blocks will materialize.",
+      "Wire a redstone line connecting the output of each observer to trigger its adjacent piston.",
+      "Add hoppers and chest lines beneath the growth blocks to catch harvested fruits."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Stone Keep Fortress",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
+    "difficulty": "Medium",
+    "description": "A compact medieval keep constructed from cobblestone, mossy cobblestone, and stone stairs.",
+    "materials": {
+      "Cobblestone": "150",
+      "Mossy Cobblestone": "50",
+      "Stone Stairs": "30",
+      "Spruce Fence": "12",
+      "Lantern": "4"
+    },
+    "steps": [
+      "Dig and lay down a 7x7 square cobblestone foundation.",
+      "Raise the castle tower walls to 6 blocks tall, mixing in mossy cobblestone blocks randomly.",
+      "Add stone stairs at the base and top rim to serve as architectural supports.",
+      "Construct a battlement viewing deck on the roof with crenellated parapets.",
+      "Hang lanterns on spruce fence posts at the corners of the top viewing deck."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Piston Elevator",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "difficulty": "Hard",
+    "description": "A redstone flying machine elevator using slime blocks and observers to travel up and down.",
+    "materials": {
+      "Sticky Piston": "2",
+      "Observer": "2",
+      "Slime Block": "4",
+      "Obsidian": "2",
+      "Stone Button": "2",
+      "Redstone Dust": "4"
+    },
+    "steps": [
+      "Assemble a standard 2x2 platform representing the elevator cabin.",
+      "Construct a simple vertical observer flying machine engine underneath.",
+      "Attach sticky pistons facing opposite directions with slime blocks in between.",
+      "Place obsidian stopper pads at the bottom and top floors to restrict travel.",
+      "Set launch triggers using buttons and repeaters to pulse the observers.",
+      "Press the button to fly up, and hit the top button to trigger the descent."
+    ]
+  }
+]
 
