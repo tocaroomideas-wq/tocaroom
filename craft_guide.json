@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Cozy Modern Wooden House",
     "category": "Houses",
-    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/d6/3e/88/d63e88f44a284292ac4e23cbbb87c709.jpg",
     "difficulty": "Easy",
     "description": "A charming two-story Minecraft starter house featuring a warm oak log frame, smooth cobblestone foundations, glass pane windows, a wrap-around wooden porch, and a sloped dark oak stair roof. The house is illuminated by torches in a lush green valley at sunset.",
     "materials": {
@@ -27,7 +27,7 @@
     "id": 7,
     "title": "Automatic Sugarcane Farm",
     "category": "Farms",
-    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/25/06/0b/25060b159a8a33699e65fbe30d1720ab.jpg",
     "difficulty": "Easy",
     "description": "A highly efficient automated Minecraft sugarcane farm built with redstone. Rows of vibrant green sugarcane grow next to a water trench on sand blocks, with clean stone brick blocks, pistons, and glowing redstone observers aligned perfectly behind them.",
     "materials": {
@@ -53,7 +53,7 @@
     "id": 2,
     "title": "Medieval Castle Watchtower",
     "category": "Castles",
-    "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/73/76/1f/73761f28dc5025f9a674564e538bbbcf.jpg",
     "difficulty": "Medium",
     "description": "An imposing medieval Minecraft watchtower constructed from weathered stone bricks and mossy cobblestone, standing tall on a grassy hill. It features spruce wood battlements at the top, narrow arrow slits, and iron lanterns emitting a warm glow.",
     "materials": {
@@ -77,7 +77,7 @@
     "id": 8,
     "title": "Multi-Item Sorter System",
     "category": "Redstone",
-    "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/91/28/5a/91285ad5c64a07f8501a8fa48410e1de.jpg",
     "difficulty": "Medium",
     "description": "A complex industrial Minecraft storage room showcasing rows of double wooden chests stacked along stone walls. It features a visible network of iron hoppers, glowing redstone comparators, repeaters, and redstone torches filtering items.",
     "materials": {
@@ -102,7 +102,7 @@
     "id": 5,
     "title": "Luxury Modern Mansion",
     "category": "Houses",
-    "imageUrl": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/eb/b9/ef/ebb9ef830e3b883b595f60460d8148e2.jpg",
     "difficulty": "Hard",
     "description": "A luxury multi-level Minecraft modern mansion built with smooth white quartz blocks and contrasting gray concrete frames. It boasts panoramic floor-to-ceiling black stained glass windows, a glowing turquoise swimming pool in front, and minimalist landscaping.",
     "materials": {
@@ -126,7 +126,7 @@
     "id": 11,
     "title": "Automatic Wool Farm",
     "category": "Farms",
-    "imageUrl": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/8d/16/17/8d1617700b0779441792eb2e0e91bf47.jpg",
     "difficulty": "Easy",
     "description": "A compact automated Minecraft sheep farm with glass wall enclosures holding colorful sheep standing on grass blocks. It features redstone dispensers, observers, and a hopper system leading to chests under a polished stone floor.",
     "materials": {
@@ -152,7 +152,7 @@
     "id": 6,
     "title": "Gothic Castle Keep",
     "category": "Castles",
-    "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/3f/67/6b/3f676b2f55fc63963c506c9dbfb06c87.jpg",
     "difficulty": "Hard",
     "description": "An intimidating dark gothic Minecraft castle keep made of deepslate tiles and dark nether brick accents, rising into a stormy sky. It features tall spiked roof towers, narrow windows with iron bars, and blue soul lanterns lighting the entrance.",
     "materials": {
@@ -176,7 +176,7 @@
     "id": 12,
     "title": "Secret Staircase Entry",
     "category": "Redstone",
-    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/16/11/b7/1611b7d58342f07e503c81d6d644ec57.jpg",
     "difficulty": "Medium",
     "description": "A secret Minecraft base entrance hidden behind a wooden staircase. The oak wood stairs are partially retracted into a polished stone brick wall by sticky pistons, revealing a glowing underground passage illuminated by redstone torches.",
     "materials": {
@@ -200,7 +200,7 @@
     "id": 9,
     "title": "Cozy Treehouse Retreat",
     "category": "Houses",
-    "imageUrl": "https://images.unsplash.com/photo-1488462237308-ecaa28b729d7?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/26/64/ee/2664ee6943ace5096139ef5d8aaa09f8.jpg",
     "difficulty": "Medium",
     "description": "A whimsical Minecraft treehouse built around a massive jungle tree trunk. It features a wrapping spruce wood balcony with fence railings, a transparent glass dome roof on top, hanging green vines, and lanterns lighting the leaves.",
     "materials": {
@@ -225,7 +225,7 @@
     "id": 15,
     "title": "Automatic Chicken Cooker",
     "category": "Farms",
-    "imageUrl": "https://images.unsplash.com/photo-1548550022-cbfb40a5a544?w=800",
+    "imageUrl": "https://i.pinimg.com/736x/77/61/cb/7761cb7660d6e635d169f5af6c53423f.jpg",
     "difficulty": "Easy",
     "description": "A compact automated Minecraft chicken farm built of glass blocks, showing chickens in a top chamber, and a bottom chamber with flowing orange lava, hopper lines, and redstone comparators on a cobblestone background.",
     "materials": {
