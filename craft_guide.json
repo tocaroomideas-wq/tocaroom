@@ -5,7 +5,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
     "difficulty": "Easy",
-    "description": "A beautiful starter home combining oak logs, cobblestone, and glass panes. Designed with a gorgeous wrap-around porch and high ceilings to provide both security and style during your first survival nights. Ideal for players looking for a balanced aesthetic on day one.",
+    "description": "A charming two-story Minecraft starter house featuring a warm oak log frame, smooth cobblestone foundations, glass pane windows, a wrap-around wooden porch, and a sloped dark oak stair roof. The house is illuminated by torches in a lush green valley at sunset.",
     "materials": {
       "Oak Wood Log": "24",
       "Oak Wood Planks": "64",
@@ -29,7 +29,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
     "difficulty": "Easy",
-    "description": "An easy-to-build, fully tileable sugarcane harvester that uses observers and pistons to auto-break crops. Highly resource efficient, it runs passively in the background to supply endless paper for library books and enchantment setups.",
+    "description": "A highly efficient automated Minecraft sugarcane farm built with redstone. Rows of vibrant green sugarcane grow next to a water trench on sand blocks, with clean stone brick blocks, pistons, and glowing redstone observers aligned perfectly behind them.",
     "materials": {
       "Piston": "8",
       "Observer": "8",
@@ -55,7 +55,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
     "difficulty": "Medium",
-    "description": "A sturdy, medieval lookout tower designed to stand guard over your village territory. Built with a solid stone foundation, spruce wood battlements, and archery slits to keep hostile mobs at bay while matching a classic fortress aesthetic.",
+    "description": "An imposing medieval Minecraft watchtower constructed from weathered stone bricks and mossy cobblestone, standing tall on a grassy hill. It features spruce wood battlements at the top, narrow arrow slits, and iron lanterns emitting a warm glow.",
     "materials": {
       "Stone Bricks": "128",
       "Cobblestone": "64",
@@ -79,7 +79,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800",
     "difficulty": "Medium",
-    "description": "An advanced sorting engine to automatically organize your massive storage chests. By using redstone comparators to lock hoppers at specific signal strengths, you can filter diamonds, cobblestones, and resources into dedicated vaults cleanly.",
+    "description": "A complex industrial Minecraft storage room showcasing rows of double wooden chests stacked along stone walls. It features a visible network of iron hoppers, glowing redstone comparators, repeaters, and redstone torches filtering items.",
     "materials": {
       "Redstone Comparator": "4",
       "Redstone Repeater": "4",
@@ -104,7 +104,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800",
     "difficulty": "Hard",
-    "description": "An architectural marvel featuring smooth white quartz pillars, panoramic black stained glass panels, and a luxurious swimming pool. This multi-level mansion is the ultimate endgame home to show off your wealth and design skills.",
+    "description": "A luxury multi-level Minecraft modern mansion built with smooth white quartz blocks and contrasting gray concrete frames. It boasts panoramic floor-to-ceiling black stained glass windows, a glowing turquoise swimming pool in front, and minimalist landscaping.",
     "materials": {
       "Smooth Quartz Block": "256",
       "Gray Concrete": "128",
@@ -128,7 +128,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=800",
     "difficulty": "Easy",
-    "description": "A compact, highly expandable farm that shears sheep automatically using observers detecting grass eating. Features a drop chute to store wool of every color cleanly, making it perfect for carpet or banner decorations.",
+    "description": "A compact automated Minecraft sheep farm with glass wall enclosures holding colorful sheep standing on grass blocks. It features redstone dispensers, observers, and a hopper system leading to chests under a polished stone floor.",
     "materials": {
       "Dispenser": "1",
       "Observer": "1",
@@ -154,7 +154,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800",
     "difficulty": "Hard",
-    "description": "An imposing, dark-themed fortress keep utilizing deepslate tile blocks, nether brick stairs, and soul lanterns. Its sharp roof crests and dark textures create a hauntingly beautiful stronghold suitable for nether or mountain biomes.",
+    "description": "An intimidating dark gothic Minecraft castle keep made of deepslate tiles and dark nether brick accents, rising into a stormy sky. It features tall spiked roof towers, narrow windows with iron bars, and blue soul lanterns lighting the entrance.",
     "materials": {
       "Cobbled Deepslate": "300",
       "Deepslate Tiles": "150",
@@ -178,7 +178,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
     "difficulty": "Medium",
-    "description": "A flush, hidden piston entrance that retracts a flight of wooden staircase blocks into the wall at the flip of a secret switch. The ultimate solution for concealing your private chests, base entrances, or diamond vaults from other players.",
+    "description": "A secret Minecraft base entrance hidden behind a wooden staircase. The oak wood stairs are partially retracted into a polished stone brick wall by sticky pistons, revealing a glowing underground passage illuminated by redstone torches.",
     "materials": {
       "Sticky Piston": "4",
       "Redstone Repeater": "2",
@@ -202,7 +202,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1488462237308-ecaa28b729d7?w=800",
     "difficulty": "Medium",
-    "description": "An organic treehouse retreat wrapped beautifully around a giant jungle tree trunk. Boasts a spacious wrap-around balcony, a glass dome roof for stargazing, and hanging vines that blend seamlessly with the natural jungle canopy.",
+    "description": "A whimsical Minecraft treehouse built around a massive jungle tree trunk. It features a wrapping spruce wood balcony with fence railings, a transparent glass dome roof on top, hanging green vines, and lanterns lighting the leaves.",
     "materials": {
       "Jungle Wood Log": "64",
       "Jungle Planks": "48",
@@ -227,7 +227,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1548550022-cbfb40a5a544?w=800",
     "difficulty": "Easy",
-    "description": "A fully automated chicken farm that breeds chickens, gathers eggs, hatches chicks in a holding chamber, and cooks them instantly using lava. Delivers fresh cooked chicken and feathers straight to your chest without any manual work.",
+    "description": "A compact automated Minecraft chicken farm built of glass blocks, showing chickens in a top chamber, and a bottom chamber with flowing orange lava, hopper lines, and redstone comparators on a cobblestone background.",
     "materials": {
       "Hopper": "3",
       "Dispenser": "1",
@@ -252,7 +252,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1547234935-80c7145ec969?w=800",
     "difficulty": "Medium",
-    "description": "A majestic desert citadel blending smooth sandstone block layouts, orange terracotta highlights, and crenellated defense towers. Perfect as a desert outpost or oasis capital to conquer the desert dunes in style.",
+    "description": "A grand Egyptian-style Minecraft desert pyramid fortress built with smooth sandstone blocks and striking orange terracotta trim. It features crenellated watchtowers at the corners and a grand gated entryway under a bright desert sun.",
     "materials": {
       "Sandstone Block": "200",
       "Smooth Sandstone": "100",
@@ -276,7 +276,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
     "difficulty": "Hard",
-    "description": "A classic flush 3x3 redstone door that fits seamlessly into base walls. Powered by a double sticky piston extender mechanism, it retracts and deploys in a satisfying, smooth animated sequence.",
+    "description": "A technical Minecraft 3x3 piston door built flush into a stone brick wall. The door is made of solid iron blocks, and the side walls are opened to reveal sticky pistons, redstone dust, repeaters, and observers in mid-retraction.",
     "materials": {
       "Sticky Piston": "12",
       "Redstone Dust": "24",
@@ -302,7 +302,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
     "difficulty": "Medium",
-    "description": "A cozy, two-story modern villa showcasing a flat roof accent, red brick details, and built-in flower boxes. Offers a warm, suburban home feel with spacious layouts and modern bay windows.",
+    "description": "A contemporary two-story Minecraft suburban villa with smooth white concrete walls, warm red brick roof accents, built-in flower boxes under bay windows, and a small paved driveway with oak fencing.",
     "materials": {
       "White Concrete": "128",
       "Brick Stairs": "48",
@@ -325,7 +325,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1605899435973-ca2d1a8861cf?w=800",
     "difficulty": "Hard",
-    "description": "An optimized early-game farm generating infinite iron ingots passively. By keeping a zombie in sight of three scared villagers, it spawns iron golems directly into a lava kill-chamber for automated resource collection.",
+    "description": "An industrial-style elevated Minecraft iron farm. A glass-walled holding chamber containing villagers and a named zombie sits below a large stone platform where iron golems spawn and slide down a water current into a lava blade trap.",
     "materials": {
       "Building Blocks": "64",
       "Glass Blocks": "32",
@@ -353,7 +353,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800",
     "difficulty": "Medium",
-    "description": "A grand obsidian nether portal framed elegantly inside a nether quartz and polished basalt shrine. Styled with a gothic-style arch and glowing soul lanterns, it makes traveling to the Nether feel like entering a sacred temple.",
+    "description": "A majestic purple Nether Portal framed by a gothic-style archway built of white quartz blocks and polished dark basalt pillars, glowing with purple energy particles and lit by blue soul lanterns.",
     "materials": {
       "Obsidian": "14",
       "Quartz Block": "64",
@@ -376,7 +376,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=800",
     "difficulty": "Easy",
-    "description": "A classic, high-velocity redstone cannon that launches primed TNT blocks over great distances. Uses water current buffers to prevent self-destruction and repeaters for precise firing delay timing.",
+    "description": "A military-style Minecraft TNT cannon built with dark obsidian blocks. It features a water channel at the bottom, rows of redstone repeaters, redstone dust wiring along the rails, and primed TNT blocks ready to fire.",
     "materials": {
       "Obsidian": "12",
       "Redstone Dust": "10",
@@ -401,7 +401,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
     "difficulty": "Easy",
-    "description": "A classic dome-shaped snow igloo constructed out of snow blocks and packed ice windows. Complete with an interior campfire fireplace and thick red wool carpets to keep warm during freezing winter nights.",
+    "description": "A cozy dome-shaped Minecraft igloo built of white snow blocks in a snowy spruce forest. It features glowing packed ice windows, smoke rising from a small chimney, and a warm glowing campfire visible inside the open doorway.",
     "materials": {
       "Snow Block": "64",
       "Packed Ice Block": "12",
@@ -423,7 +423,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
     "difficulty": "Easy",
-    "description": "A fully automated melon and pumpkin harvester utilizing observers that monitor block growths. Breaks matured crops instantly using pistons and drops them into water streams, guaranteeing a constant supply of food and trading resources.",
+    "description": "A clean, underground Minecraft crop farm showing rows of pumpkin and melon blocks grown on tilled soil. Pistons and redstone observers are placed directly above them, with water streams below transport the items to hoppers.",
     "materials": {
       "Piston": "4",
       "Observer": "4",
@@ -449,7 +449,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
     "difficulty": "Medium",
-    "description": "A compact, modular medieval keep constructed from cobblestone, mossy cobblestone, and stone stairs. A great intermediate project to establish a fortified home base with a classic, aged look.",
+    "description": "A sturdy, medieval stone keep fortress in Minecraft built of cobblestone, mossy cobblestone, and stone stairs. It has crenellated roof battlements, corner iron bars windows, and lanterns hanging from dark wood poles.",
     "materials": {
       "Cobblestone": "150",
       "Mossy Cobblestone": "50",
@@ -471,7 +471,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
     "difficulty": "Hard",
-    "description": "A redstone-powered flying machine elevator using slime blocks and observers to travel smoothly between base floors. A highly futuristic way to move vertically in your base without using standard stairs or ladders.",
+    "description": "A futuristic vertical Minecraft elevator shaft built with obsidian frames. A mobile platform made of green translucent slime blocks, sticky pistons, and redstone observers is shown traveling between stone brick floors.",
     "materials": {
       "Sticky Piston": "2",
       "Observer": "2",
@@ -495,7 +495,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
     "difficulty": "Hard",
-    "description": "A gorgeous oriental villa styled with curved roofs, dark prismarine rafters, and white terracotta shoji walls. Offers a serene, zen atmosphere with beautiful paper lanterns and elevated wooden decks.",
+    "description": "A beautiful multi-tiered Japanese pagoda villa in Minecraft featuring dark prismarine curved roofs, white terracotta walls representing shoji doors, elevated spruce wood decks, and glowing red paper lanterns.",
     "materials": {
       "Spruce Wood Planks": "128",
       "Dark Prismarine": "64",
@@ -518,7 +518,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
     "difficulty": "Hard",
-    "description": "A high-yield industrial gold farm utilizing giant nether portals to spawn Zombie Piglins at rapid speeds. Uses a ticking portal mechanism to spawn, drop, and collect gold nuggets and ingots automatically.",
+    "description": "A colossal industrial Minecraft gold farm showcasing massive 21x21 obsidian nether portal frames. A complex water disposal system drops spawned Zombie Piglins down a deep shaft into a collection room.",
     "materials": {
       "Obsidian": "120",
       "Dispenser": "2",
@@ -542,7 +542,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
     "difficulty": "Hard",
-    "description": "An intimidating nether tower built from red nether bricks and polished basalt columns. Styled with soul campfires to stand out in the dark red landscape of the Nether while offering defensive lookouts.",
+    "description": "An intimidating Minecraft tower built of dark red nether bricks and polished basalt columns, rising from a sea of orange nether lava. Blue soul campfires burn on the roof corners under a glowing red nether sky.",
     "materials": {
       "Red Nether Bricks": "150",
       "Polished Basalt": "60",
@@ -565,7 +565,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
     "difficulty": "Medium",
-    "description": "A smart, automated brewing station that prepares custom potions at the press of a button. Uses hopper locks and a redstone repeater delay line to drop ingredients in order with perfect timing.",
+    "description": "A clean laboratory-style Minecraft brewing station showing a glass brewing stand connected to redstone droppers, hoppers, and wooden chests. Redstone repeaters and dust lines wire a central stone button.",
     "materials": {
       "Brewing Stand": "1",
       "Hopper": "3",
@@ -589,7 +589,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
     "difficulty": "Easy",
-    "description": "A simple, timber-frame medieval cottage featuring a brick chimney, mossy cobblestone foundations, and a cozy fireplace. Perfect for rural villages, farmland valleys, or forest hideaways.",
+    "description": "A picturesque Minecraft medieval cottage with a timber frame of dark oak logs, white wool walls, a cobblestone foundation, a brick chimney emitting campfire smoke, and glass pane windows overlooking a wheat field.",
     "materials": {
       "Spruce Wood Planks": "64",
       "Cobblestone": "32",
@@ -611,7 +611,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
     "difficulty": "Hard",
-    "description": "An optimized underground farm built in a slime chunk to harvest slimeballs continuously. Uses a trapped iron golem to lure slimes into a magma block floor trap, routing drops into storage.",
+    "description": "An underground Minecraft slime farm excavated inside a deepslate cavern. Bouncing green slime mobs are drawn to a central iron golem in a fence cage, falling onto a hot orange magma block floor trap.",
     "materials": {
       "Magma Block": "32",
       "Iron Block": "4",
@@ -634,7 +634,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
     "difficulty": "Hard",
-    "description": "A majestic ocean shrine built under the sea using prismarine bricks, dark prismarine arches, and glowing sea lanterns. Features a central vault to showcase gold block artifacts and ocean treasures.",
+    "description": "A grand underwater Minecraft temple constructed of green prismarine bricks and dark prismarine arches. Glowing sea lanterns illuminate the deep blue ocean water surrounding the structure, where kelp floats nearby.",
     "materials": {
       "Prismarine Bricks": "150",
       "Dark Prismarine": "60",
@@ -656,7 +656,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
     "difficulty": "Easy",
-    "description": "A highly convenient redstone station that equips a full set of armor instantly when stepping on a single pressure plate. Uses four hidden dispensers to load helmets, chestplates, leggings, and boots in one tick.",
+    "description": "A utility Minecraft redstone closet featuring a stone pressure plate surrounded by four dispenser blocks. A full set of blue diamond armor is displayed inside the dispensers, wired with redstone dust behind a stone wall.",
     "materials": {
       "Dispenser": "4",
       "Redstone Dust": "8",
@@ -678,7 +678,7 @@
     "category": "Houses",
     "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
     "difficulty": "Easy",
-    "description": "An atmospheric, improved witch hut elevated on spruce wood logs over swampy waters. Detailed with brewing stands, cauldrons, mushroom planters, and hanging vines for a mysterious swamp look.",
+    "description": "An atmospheric Minecraft witch hut built on dark oak wood stilts over a murky green swamp. It features a sloped spruce wood roof covered in vines, with a cauldron and brewing stand visible inside the open door.",
     "materials": {
       "Oak Wood Log": "32",
       "Oak Wood Planks": "48",
@@ -700,7 +700,7 @@
     "category": "Farms",
     "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
     "difficulty": "Easy",
-    "description": "A fully automatic, zero-energy cactus farm that uses checkerboard sand blocks and fence posts to pop grown cactuses instantly. Collects them using water streams into chest hoppers for green dye production.",
+    "description": "A modular Minecraft cactus farm. Green cactus blocks grow on elevated sand blocks arranged in a checkerboard pattern, with oak fences placed between them to pop grown blocks into flowing water channels.",
     "materials": {
       "Cactus": "8",
       "Sand Block": "8",
@@ -722,7 +722,7 @@
     "category": "Castles",
     "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
     "difficulty": "Hard",
-    "description": "A grand sky fortress floating high above the clouds, built using end stone bricks, purpur block accents, and purple banners. Powered by a central beacon to grant status effects to anyone visiting the base.",
+    "description": "A majestic Minecraft sky fortress floating high above white clouds. Constructed from light yellow end stone bricks, purpur block arches, and purple banners, it is crowned by a bright blue beacon beam shooting into space.",
     "materials": {
       "End Stone Bricks": "200",
       "Purpur Block": "64",
@@ -744,7 +744,7 @@
     "category": "Redstone",
     "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
     "difficulty": "Medium",
-    "description": "A beautiful lighthouse light system that simulates rotating beacon beams using a redstone repeater loop and redstone lamps. A fantastic cosmetic addition to any shoreline base or port town.",
+    "description": "A tall red-and-white striped Minecraft lighthouse built on a rocky ocean shore. At the top glass deck, a circular ring of redstone lamps is lit sequentially by redstone repeaters, casting a warm rotating glow.",
     "materials": {
       "Redstone Lamp": "8",
       "Redstone Repeater": "8",
