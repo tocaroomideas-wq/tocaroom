@@ -488,6 +488,276 @@
       "Set launch triggers using buttons and repeaters to pulse the observers.",
       "Press the button to fly up, and hit the top button to trigger the descent."
     ]
+  },
+  {
+    "id": 21,
+    "title": "Japanese Pagoda Villa",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+    "difficulty": "Hard",
+    "description": "A gorgeous oriental villa styled with curved roofs, dark prismarine rafters, and paper shoji walls.",
+    "materials": {
+      "Spruce Wood Planks": "128",
+      "Dark Prismarine": "64",
+      "White Terracotta": "48",
+      "Paper Lantern": "8",
+      "Oak Fence": "16"
+    },
+    "steps": [
+      "Lay down a raised 7x7 wooden deck platform.",
+      "Erect corner pillars using spruce logs.",
+      "Place white terracotta for shoji walls.",
+      "Construct wide flared roofs using dark prismarine stairs.",
+      "Add a second tier pagoda roof.",
+      "Light with paper lanterns."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Automatic Gold Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
+    "difficulty": "Hard",
+    "description": "A high-yield farm utilizing giant nether portals to spawn and gather Zombie Piglins automatically.",
+    "materials": {
+      "Obsidian": "120",
+      "Dispenser": "2",
+      "Water Bucket": "1",
+      "Lava Bucket": "1",
+      "Hopper": "6",
+      "Chest": "4",
+      "Redstone Observer": "4"
+    },
+    "steps": [
+      "Build four giant 21x21 nether portals standing next to each other.",
+      "Construct a central piglin drop chute.",
+      "Set up lava/trapdoors to constantly ignite portals.",
+      "Set up water dispensers to extinguish portals immediately.",
+      "Route fallen piglins into collection hoppers."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Nether Fortress Watchtower",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
+    "difficulty": "Hard",
+    "description": "An intimidating nether tower built from red nether bricks and basalt, featuring soul campfires.",
+    "materials": {
+      "Red Nether Bricks": "150",
+      "Polished Basalt": "60",
+      "Magma Block": "12",
+      "Soul Campfire": "4",
+      "Iron Bars": "16"
+    },
+    "steps": [
+      "Dig out a volcanic foundation.",
+      "Build a thick column tower of red nether bricks.",
+      "Insert polished basalt support pillars.",
+      "Create defense parapets.",
+      "Place soul campfires on corners.",
+      "Frame windows with iron bars."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Automatic Potion Brewer",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "difficulty": "Medium",
+    "description": "A smart brewing station. Press a button to automatically brew custom potions with perfect timing loops.",
+    "materials": {
+      "Brewing Stand": "1",
+      "Hopper": "3",
+      "Chest": "4",
+      "Redstone Repeater": "6",
+      "Redstone Dust": "12",
+      "Stone Button": "1",
+      "Dropper": "3"
+    },
+    "steps": [
+      "Place a brewing stand and attach hoppers feeding into the top and sides.",
+      "Place droppers loaded with ingredients pointing into the hoppers.",
+      "Build a redstone delay repeater line.",
+      "Connect repeaters to droppers to release ingredients one-by-one.",
+      "Press button to start."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Cozy Medieval Cottage",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+    "difficulty": "Easy",
+    "description": "A simple timber-frame cottage featuring a brick chimney, mossy stone walls, and a cozy fireplace inside.",
+    "materials": {
+      "Spruce Wood Planks": "64",
+      "Cobblestone": "32",
+      "Brick Block": "12",
+      "Campfire": "1",
+      "Glass Pane": "8"
+    },
+    "steps": [
+      "Lay down a cobblestone border outline.",
+      "Erect timber frames using spruce logs.",
+      "Place white wool or clay blocks as walls.",
+      "Construct a chimney of brick blocks with a campfire on top.",
+      "Add spruce wood stairs for a sloped roof."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Automatic Slime Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
+    "difficulty": "Hard",
+    "description": "An underground farm located in a slime chunk that gathers slimeballs continuously using iron golems as bait.",
+    "materials": {
+      "Magma Block": "32",
+      "Iron Block": "4",
+      "Pumpkin": "1",
+      "Hopper": "6",
+      "Chest": "2",
+      "Stone Slab": "24"
+    },
+    "steps": [
+      "Dig out a large chamber (16x16x4) inside a slime chunk below Y=40.",
+      "Construct three platform layers.",
+      "Place an iron golem locked in a fence cage on one end.",
+      "Place magma blocks beneath the golem pit.",
+      "Route dropped slimeballs into hoppers."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Underwater Prismarine Temple",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
+    "difficulty": "Hard",
+    "description": "A majestic ocean shrine built with glowing sea lanterns, prismarine bricks, and gold block artifacts.",
+    "materials": {
+      "Prismarine Bricks": "150",
+      "Dark Prismarine": "60",
+      "Sea Lantern": "16",
+      "Gold Block": "8",
+      "Sponge": "12"
+    },
+    "steps": [
+      "Drain a 10x10 underwater area using sponges.",
+      "Raise prismarine brick pillars.",
+      "Construct an arched dome using dark prismarine stairs.",
+      "Install sea lanterns for glowing lights.",
+      "Place gold blocks in the center chamber as treasures."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Automatic Armor Equipper",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "difficulty": "Easy",
+    "description": "Step on a single pressure plate to instantly equip a full set of netherite or diamond armor.",
+    "materials": {
+      "Dispenser": "4",
+      "Redstone Dust": "8",
+      "Stone Pressure Plate": "1",
+      "Obsidian": "2",
+      "Redstone Torch": "1"
+    },
+    "steps": [
+      "Dig a small 3-block trench.",
+      "Place four dispensers facing a single standing spot.",
+      "Wire redstone behind and below the dispensers.",
+      "Place a pressure plate in the center.",
+      "Load armor parts into the dispensers."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Cozy Swamp Witch Hut",
+    "category": "Houses",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+    "difficulty": "Easy",
+    "description": "An improved witch hut built on wooden stilts over marshy swamp waters, detailed with cauldrons and vines.",
+    "materials": {
+      "Oak Wood Log": "32",
+      "Oak Wood Planks": "48",
+      "Cauldron": "1",
+      "Vines": "8",
+      "Red Mushroom": "4"
+    },
+    "steps": [
+      "Build oak log stilts Y=3 high in water.",
+      "Frame a 5x5 platform using planks.",
+      "Erect walls leaving a door entry.",
+      "Hang vines from the roof.",
+      "Place a cauldron and brewing stand inside."
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Automatic Cactus Farm",
+    "category": "Farms",
+    "imageUrl": "https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?w=800",
+    "difficulty": "Easy",
+    "description": "A fully automatic cactus farm that uses fence posts to automatically pop grown cactus blocks into a collection stream.",
+    "materials": {
+      "Cactus": "8",
+      "Sand Block": "8",
+      "Oak Fence": "8",
+      "Water Bucket": "2",
+      "Hopper": "2",
+      "Chest": "2"
+    },
+    "steps": [
+      "Set up an 8x8 water channel flow feeding into collection hoppers.",
+      "Place sand blocks elevated Y=1 above water checkerboard style.",
+      "Plant cactuses on sand blocks.",
+      "Place fence posts directly in between the growth paths, cactuses will auto-break upon growing."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Sky High Floating Fortress",
+    "category": "Castles",
+    "imageUrl": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=800",
+    "difficulty": "Hard",
+    "description": "A high-altitude citadel floating above the clouds, built with end stone bricks, purple banners, and a central beacon.",
+    "materials": {
+      "End Stone Bricks": "200",
+      "Purpur Block": "64",
+      "Beacon": "1",
+      "Netherite Block": "9",
+      "Purple Glass": "16"
+    },
+    "steps": [
+      "Build up Y=150 blocks and create a large cloud platform.",
+      "Frame circular fortress towers using end stone bricks.",
+      "Inlay purpur blocks for decoration.",
+      "Build a 3x3 netherite block beacon base in the center.",
+      "Activate the beacon with purple stained glass on top."
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Lighthouse Rotating Light",
+    "category": "Redstone",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "difficulty": "Medium",
+    "description": "A rotating beacon light system utilizing a redstone comparator clock and redstone lamps.",
+    "materials": {
+      "Redstone Lamp": "8",
+      "Redstone Repeater": "8",
+      "Redstone Dust": "16",
+      "Observer": "4",
+      "Lever": "1"
+    },
+    "steps": [
+      "Build a circular ring of 8 redstone lamps at the top of a tower.",
+      "Place redstone repeaters behind each lamp pointing in a circle.",
+      "Set all repeaters to 3-tick delay.",
+      "Wire a single start-pulse lever to launch the signal loop.",
+      "Observe the rotating light effect."
+    ]
   }
 ]
-
