@@ -75,5 +75,12 @@
     "category": "Living Room",
     "imageUrl": "https://i.pinimg.com/736x/a4/7f/bc/a47fbcdd13e87e6a07825031d6e5b11d.jpg",
     "description": ""
+  },
+  {
+    "id": 12,
+    "title": "Bedroom Style",
+    "category": "Bedroom",
+    "imageUrl": "https://i.pinimg.com/736x/01/7c/7a/017c7ad7838e15da7c37d7bd44f4064b.jpg",
+    "description": ""
   }
 ]
