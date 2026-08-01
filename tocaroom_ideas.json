@@ -1,86 +1,282 @@
 [
   {
     "id": 1,
-    "title": "Aesthetic Pastel Pink Kitchen",
-    "category": "Kitchen",
-    "imageUrl": "https://i.pinimg.com/1200x/9d/33/4a/9d334a90913cf3a96165b06b17ca1ea4.jpg",
-    "description": "Desain kamar tidur dengan nuansa pink pastel yang imut dan aesthetic."
+    "title": "Aesthetic Pink Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/01/7c/7a/017c7ad7838e15da7c37d7bd44f4064b.jpg",
+    "description": "A cute and adorable pink and purple bedroom design."
   },
   {
     "id": 2,
-    "title": "Aesthetic Yellow Kitchen",
-    "category": "Kitchen",
-    "imageUrl": "https://i.pinimg.com/736x/79/39/4b/79394b134fb5cc5d257607a50457bfb7.jpg",
-    "description": "Dapur minimalis dengan dekorasi lemari berwarna kuning pastel yang hangat."
+    "title": "Sweet Creative Room",
+    "category": "Creative Room",
+    "imageUrl": "https://i.pinimg.com/736x/e1/af/b8/e1afb8a2ef3eae723e1307172144e64a.jpg",
+    "description": "Sweet and neat creative space."
   },
   {
     "id": 3,
-    "title": "Aesthetic Wow Kitchen",
-    "category": "Kitchen",
-    "imageUrl": "https://i.pinimg.com/1200x/b1/00/19/b100195f15d76ba0903e5f4772260d71.jpg",
-    "description": "Dapur minimalis dengan dekorasi lemari berwarna kuning pastel yang hangat."
+    "title": "Aesthetic Study Room",
+    "category": "Study Room",
+    "imageUrl": "https://i.pinimg.com/736x/5a/7e/fb/5a7efb6e123d924f7917b0e601dd1e02.jpg",
+    "description": "A cute and minimalist study space."
   },
   {
     "id": 4,
-    "title": "Room Aesthetic Kitchen",
-    "category": "Kitchen",
-    "imageUrl": "https://i.pinimg.com/vwebp/1200x/ba/5e/91/ba5e91f9549583d2e4811c5a70f49105.webp",
-    "description": ""
+    "title": "Sweet Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/5b/f8/75/5bf8750dc5ea3f2ce522adfa5bde9c80.jpg",
+    "description": "A charming bedroom for a mechanic."
   },
   {
     "id": 5,
-    "title": "Living Room Aesthetic Idea",
-    "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/e6/07/ed/e607ede2457eef9b164450648957eeb0.jpg",
-    "description": ""
+    "title": "Playground Dream",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/57/49/68/574968a9c909417a0a3980534dbe08df.jpg",
+    "description": "A beautiful playroom filled with cute toys."
   },
   {
     "id": 6,
-    "title": "Living Room Dream",
-    "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/c3/da/59/c3da59a83026e97fa041ad0238ebe3f9.jpg",
-    "description": ""
+    "title": "happiness Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/37/71/ef/3771ef1cf78964e3600fe7cfcfb9ee6d.jpg",
+    "description": "A bedroom filled with happiness."
   },
   {
     "id": 7,
-    "title": "Best Living Room Ideas",
-    "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/69/ed/bc/69edbc9d95574b79c2e6270a5a1e5d2d.jpg",
-    "description": ""
+    "title": "Best Idea Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/d1/2b/50/d12b50ff4a0d9ed56fcff3393d3ad387.jpg",
+    "description": "Beautiful, lovely, and delightful bedroom ideas."
   },
   {
     "id": 8,
-    "title": "Living Room Ideas Amazing",
-    "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/0d/ab/1e/0dab1e6203c3ca4e72bef13af313aecb.jpg",
-    "description": ""
+    "title": "Cute Badroom Idea",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/49/c8/00/49c80029923637c254e84be5bf8e84a6.jpg",
+    "description": "A dream bedroom filled with cute and adorable toys."
   },
   {
     "id": 9,
-    "title": "Ideas Living Dream",
-    "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/83/d2/de/83d2de603b55b1d62c57808a27f54a66.jpg",
-    "description": ""
+    "title": "Sweet Badroom Style",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/db/85/9a/db859a7cc38ae847252bd05e624512d6.jpg",
+    "description": "A sweet dream bedroom to enjoy."
   },
   {
     "id": 10,
-    "title": "Best Room Toca",
-    "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/37/5a/d6/375ad6e37a1d91e6e26d860fc88a58a8.jpg",
-    "description": ""
+    "title": "Beuty Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/3c/e4/5f/3ce45f8506b2a1ac41772dea0d0cebe9.jpg",
+    "description": "A beautiful and clean bedroom to have."
   },
   {
     "id": 11,
-    "title": "TV Room Lifestyle",
+    "title": "Dream Living Room",
     "category": "Living Room",
-    "imageUrl": "https://i.pinimg.com/736x/a4/7f/bc/a47fbcdd13e87e6a07825031d6e5b11d.jpg",
-    "description": ""
+    "imageUrl": "https://i.pinimg.com/736x/40/d2/18/40d218ab7bd236aade6f6bc1e70d444f.jpg",
+    "description": "A dream living room filled with toys and pictures"
   },
   {
     "id": 12,
-    "title": "Bedroom Style",
-    "category": "Bedroom",
-    "imageUrl": "https://i.pinimg.com/736x/01/7c/7a/017c7ad7838e15da7c37d7bd44f4064b.jpg",
-    "description": ""
+    "title": "Dreaam Cute Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/9d/2d/77/9d2d77406ebb0a6db48361d63a7c6b4c.jpg",
+    "description": "A beautiful and cute dream bedroom to call your own."
+  },
+  {
+    "id": 13,
+    "title": "Aesthetic Work Room",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/84/0c/af/840caf579764be1a02037826c3e34082.jpg",
+    "description": "A dream workspace combined with a bedroom."
+  },
+  {
+    "id": 14,
+    "title": "Dream Style Work Room",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/5b/f8/75/5bf8750dc5ea3f2ce522adfa5bde9c80.jpg",
+    "description": "A dream workspace that is tidy and clean, featuring a comfortable bed."
+  },
+  {
+    "id": 15,
+    "title": "Cute Badroom Style",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/4d/d3/56/4dd356b709340666f24348cf94692268.jpg",
+    "description": "A cute and adorable dream bedroom to have."
+  },
+  {
+    "id": 16,
+    "title": "Sweet Badroom Dream",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/5a/7e/fb/5a7efb6e123d924f7917b0e601dd1e02.jpg",
+    "description": "A dream bedroom, sweet and filled with lots of cute toys."
+  },
+  {
+    "id": 17,
+    "title": "Sweet Pink Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/12/f8/94/12f894dea37bc00bfcbbebaeaa434d6e.jpg",
+    "description": "A sweet bedroom in cute and lovely pink."
+  },
+  {
+    "id": 18,
+    "title": "Best Playgound",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/57/49/68/574968a9c909417a0a3980534dbe08df.jpg",
+    "description": "A cool, great playroom stocked with plenty of engaging toys."
+  },
+  {
+    "id": 19,
+    "title": "Astronomy Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/1e/83/0f/1e830fc677d67a8ab0228b2cb4698378.jpg",
+    "description": "A cool bedroom themed around astronomical instruments."
+  },
+  {
+    "id": 20,
+    "title": "Cute Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/a4/2d/54/a42d545f2798babfcfb39960eef88bf1.jpg",
+    "description": "A cute pink bedroom filled with toys."
+  },
+  {
+    "id": 21,
+    "title": "Best Pinky Badrom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/26/5e/80/265e80952b4cd2b99178baac9b10fbfb.jpg",
+    "description": "A play area filled with cute stuffed toys and featuring a bed."
+  },
+  {
+    "id": 22,
+    "title": "Dream Playground",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/e1/af/b8/e1afb8a2ef3eae723e1307172144e64a.jpg",
+    "description": "A playroom filled with many cute and interesting toys."
+  },
+  {
+    "id": 23,
+    "title": "Best Office Dream",
+    "category": "Office",
+    "imageUrl": "https://i.pinimg.com/736x/79/83/6c/79836c57af69bbc4c2105902c2556d39.jpg",
+    "description": "An appealing workspace filled with cute decorations."
+  },
+  {
+    "id": 24,
+    "title": "Dream Best Office",
+    "category": "Office",
+    "imageUrl": "https://i.pinimg.com/736x/7e/47/cb/7e47cb262eb0e6ef4c0ee6b9975ebb59.jpg",
+    "description": "The ultimate dream workspace and study area you need to have."
+  },
+  {
+    "id": 25,
+    "title": "Simple Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/3f/97/8f/3f978f2bdb937884ac68d35a2f327198.jpg",
+    "description": "A simple, comfortable bedroom with complete amenities."
+  },
+  {
+    "id": 26,
+    "title": "Dream Kidszone",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/0a/6d/f8/0a6df874db57c813de6f7c558a660bc1.jpg",
+    "description": "A dream playroom that is beautiful, exciting, and filled with toys."
+  },
+  {
+    "id": 27,
+    "title": "Sweet Living Rom",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/fc/7d/21/fc7d2183921bc445a4ccf17449c6a7e0.jpg",
+    "description": "A dream living room that is simple yet features plenty of decorative accents to make it look beautiful."
+  },
+  {
+    "id": 28,
+    "title": "Pink Sky Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/20/1d/73/201d73520dd6b42c2d15f436935387f1.jpg",
+    "description": "A pink bedroom filled with sky-themed decorations and stuffed animals."
+  },
+  {
+    "id": 29,
+    "title": "Simple Playground",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/d1/9e/b9/d19eb993a238ae593fd99d84757b95d3.jpg",
+    "description": "A simple, beautiful playroom filled with many cute and engaging toys."
+  },
+  {
+    "id": 30,
+    "title": "Sweet Pink Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/65/d1/ba/65d1ba117c40f05c50dfa36568ce51db.jpg",
+    "description": "A pink-themed bedroom filled with many cute and adorable toys."
+  },
+  {
+    "id": 31,
+    "title": "Simple Living Room",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/d1/9e/b9/d19eb993a238ae593fd99d84757b95d3.jpg",
+    "description": "A cozy and cool family room for relaxing."
+  },
+  {
+    "id": 32,
+    "title": "Dream Pinky Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/65/d1/ba/65d1ba117c40f05c50dfa36568ce51db.jpg",
+    "description": "A dream bedroom that is cute, pink, and decorated with lots of stuffed animals."
+  },
+  {
+    "id": 33,
+    "title": "Best Kidszone",
+    "category": "Liing Room",
+    "imageUrl": "https://i.pinimg.com/736x/d6/8e/e5/d68ee5f296981107a6a3f0c93aea5b42.jpg",
+    "description": "A dream playroom filled with play equipment and lots of toys"
+  },
+  {
+    "id": 34,
+    "title": "Lovely Badroom",
+    "category": "Badroom",
+    "imageUrl": "https://i.pinimg.com/736x/51/77/49/51774959ff596cfa8b18dc7d8853aa58.jpg",
+    "description": "A unique, pink-colored room featuring plenty of toys and comfortable seating."
+  },
+  {
+    "id": 35,
+    "title": "Dream Kidszone",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/66/1c/79/661c7986891702078f09abf6479f8fa2.jpg",
+    "description": "A playroom filled with cute toys and abundant wall decorations."
+  },
+  {
+    "id": 36,
+    "title": "Simple Cute Living Room",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/c8/86/89/c886896af960e8665f6d54cdea5c46e8.jpg",
+    "description": "A simple and unique family room filled with bright natural light from outside."
+  },
+  {
+    "id": 37,
+    "title": "Time Zone",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/8c/9b/3d/8c9b3de3960dcb8492338f189ac3a15d.jpg",
+    "description": "A complete play area featuring many engaging indoor games."
+  },
+  {
+    "id": 38,
+    "title": "Smart Living Room",
+    "category": "Living Room",
+    "imageUrl": "https://i.pinimg.com/736x/38/44/47/384447331f77bbb1d7c802c9f2d6bcf3.jpg",
+    "description": "A simple and attractive smart living room worth having."
+  },
+  {
+    "id": 39,
+    "title": "Study Room",
+    "category": "Playground",
+    "imageUrl": "https://i.pinimg.com/736x/88/39/f3/8839f35715b773e35b6296e7879393fa.jpg",
+    "description": "A study room equipped with plenty of books and children's games."
+  },
+  {
+    "id": 40,
+    "title": "Best Store",
+    "category": "Store",
+    "imageUrl": "https://i.pinimg.com/736x/81/45/be/8145be7398564da6b25662f2aae02203.jpg",
+    "description": "A well-stocked food and equipment store with a robot salesperson."
   }
 ]
