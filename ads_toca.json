@@ -7,5 +7,5 @@
   "admob_rewarded_id": "ca-app-pub-3061080223322017/4353916892",
   "enable_interstitial_interval": true,
   "interstitial_interval": 3,
-  "native_ad_interval": 6
+  "native_ad_interval": 5
 }
