@@ -1,0 +1,37 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.tocaideas.wallpaperclue",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
+      "open_app_ads": "ca-app-pub-3940256099942544/3419835294",
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+      "interval_intertitial": 2,
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "null",
+      "high_paying_keyword_3": "null",
+      "high_paying_keyword_4": "null",
+      "high_paying_keyword_5": "null"
+    }
+  ],
+  "Data": [
+    {
+      "title": "Toca Clue 1",
+      "image": "https://raw.githubusercontent.com/username/repo/main/image1.jpg"
+    },
+    {
+      "title": "Toca Clue 2",
+      "image": "https://raw.githubusercontent.com/username/repo/main/image2.jpg"
+    },
+    {
+      "title": "Toca Clue 3",
+      "image": "https://raw.githubusercontent.com/username/repo/main/image3.jpg"
+    }
+  ]
+}
