@@ -1,1 +1,11 @@
-
+{
+  "show_ads": true,
+  "admob_banner_id": "ca-app-pub-3061080223322017/4004323297",
+  "admob_interstitial_id": "ca-app-pub-3061080223322017/7604656956",
+  "admob_native_id": "ca-app-pub-3061080223322017/2251246165",
+  "admob_open_ad_id": "ca-app-pub-3061080223322017/9570105628",
+  "admob_rewarded_id": "ca-app-pub-3061080223322017/4353916892",
+  "enable_interstitial_interval": true,
+  "interstitial_interval": 3,
+  "native_ad_interval": 5
+}
