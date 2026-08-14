@@ -1,10 +1,10 @@
 {
   "show_ads": true,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-  "admob_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
-  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "admob_banner_id": "ca-app-pub-3061080223322017/5901781051",
+  "admob_interstitial_id": "ca-app-pub-3061080223322017/9987581909",
+  "admob_native_id": "ca-app-pub-3061080223322017/2512416562",
+  "admob_open_ad_id": "ca-app-pub-3061080223322017/8751305674",
+  "admob_rewarded_id": "ca-app-pub-3061080223322017/2627278277",
   "enable_interstitial_interval": true,
   "interstitial_interval": 3,
   "native_ad_interval": 5
