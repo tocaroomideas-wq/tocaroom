@@ -1,0 +1,11 @@
+{
+  "ads_enabled": true,
+  "show_app_open": true,
+  "show_native": true,
+  "show_interstitial": true,
+  "show_rewarded": true,
+  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "native_id": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+}
