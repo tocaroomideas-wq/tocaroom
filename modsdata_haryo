@@ -1,0 +1,164 @@
+{
+  "ADS": [
+    {
+      "select_ads": "ADMOB",
+      "backup_ads": "MAX",
+      "enable_ads": true,
+      
+      "inter_main": "ca-app-pub-3940256099942544/1033173712",
+      "native_main": "ca-app-pub-3940256099942544/2247696110",
+      "banner_main": "ca-app-pub-3940256099942544/6300978111",
+      "reward_main": "ca-app-pub-3940256099942544/5224354917",
+      "open_main": "ca-app-pub-3940256099942544/9257395921",
+      
+      "inter_backup": "a4ff9e9ec936b3da",
+      "native_backup": "null",
+      "banner_backup": "",
+      "reward_backup": "26acb22e17e64573",
+      "open_backup": "null",
+      
+      "on_off_native_listview": "1",
+      "interval_native": 12,
+      "status_app": "0",
+      "link_redirect": "https://google.com",
+      "interval_interst": 2,
+      "interval_reward": "0",
+      "child_direct_gdpr": true,
+      "protect_app": false,
+      "base_64_license_key": "null",
+      "max_number_new_script": 14,
+      "on_off_skin_pack": "1",
+      "on_off_skin_original": "1",
+      "on_off_carousel": "1",
+      "on_off_offline_skins": "0"
+    }
+  ],
+  "CATEGORY":
+  [
+      {
+    "id_category" :16,
+    "title": "Truck",
+    "image": "https://i.pinimg.com/originals/3a/80/13/3a8013bcfc4dbb7e453942e4f7c1894d.jpg"
+  },
+   {
+    "id_category" : 17,
+    "title": "Bus",
+    "image": "https://i.pinimg.com/originals/11/56/18/115618fc433a03fab72a683a1b2cbd30.jpg"
+  },
+   {
+    "id_category" : 18,
+    "title": "Motor",
+    "image": "https://i.pinimg.com/originals/c8/75/69/c87569af3bafee775157c93006af028e.jpg"
+  },
+   {
+    "id_category" : 19,
+    "title": "Mobil",
+    "image": "https://i.pinimg.com/originals/16/15/ce/1615ce5973eb626c3f6a6f848c960d13.jpg"
+  },
+    {
+    "id_category" : 23,
+    "title": "Livery Yudistira",
+    "image": "https://i.pinimg.com/736x/c5/4a/7b/c54a7b4e3e94e0ed252d105e71617f7b.jpg"
+  },
+   {
+    "id_category" : 24,
+    "title": "Livery Nakula",
+    "image": "https://i.pinimg.com/736x/50/8c/3f/508c3f8ec9015b2a8bf5c9ac8d518d8a.jpg"
+  },
+  {
+    "id_category": 25,
+    "title": "Livery Sadewa",
+    "image": "https://i.pinimg.com/736x/50/8c/3f/508c3f8ec9015b2a8bf5c9ac8d518d8a.jpg"
+  },
+  {
+    "id_category": 26,
+    "title": "Livery Arjuna",
+    "image": "https://i.pinimg.com/736x/d2/fb/eb/d2fbebe7c975d75f6ed992108fe972c8.jpg"
+  },
+  {
+    "id_category": 27,
+    "title": "Livery Bimasena",
+    "image": "https://i.pinimg.com/736x/b5/b2/d8/b5b2d84e254f0ffe55b4e1888bd0e024.jpg"
+  },
+  {
+    "id_category": 28,
+    "title": "Livery Srikandi",
+    "image": "https://i.pinimg.com/736x/72/c8/f7/72c8f77379322f4e8d0e2f0f046cab23.jpg"
+  }
+
+  ],
+  "CAROUSEL":
+  [
+      
+   {
+      "title": "QQ Trans JB3+ Hino RK8",
+      "image": "https://i.pinimg.com/736x/ac/90/ef/ac90efb7584e1af0b5cbc513c145ca81.jpg",
+      "link_mods": "https://mapes2.maybusid.my.id/modz/bus/JB3+%20SHD%20HINO%20RK8.bussidmod",
+      "link_livery": "https://mapes4.maybusid.my.id/modz/liv/Winspector.png"
+    },
+{
+      "title": "STJ Armagedon JB3+ Hino RK8",
+      "image": "https://i.pinimg.com/736x/6c/bb/f9/6cbbf9fbb3b92c93bd33b1c2f3e91353.jpg",
+      "link_mods": "https://mapes2.maybusid.my.id/modz/bus/JB3+%20SHD%20HINO%20RK8.bussidmod",
+      "link_livery": "https://mapes4.maybusid.my.id/modz/liv/TJ%20ARMAGEDDON%20FULL%20BANNER%20BY%20JHOJHOPHAI.png"
+    }, 
+{
+      "title": "STJ Mooneyes JB3+ Hino RK8",
+      "image": "https://i.pinimg.com/736x/97/11/6f/97116ffa4761ee83e2b34b91f6d1e9db.jpg",
+      "link_mods": "https://mapes2.maybusid.my.id/modz/bus/JB3+%20SHD%20HINO%20RK8.bussidmod",
+      "link_livery": "https://mapes4.maybusid.my.id/modz/liv/MOONEYES%20FULL%20BANNER%20BY%20JHOJHOPHAI.png"
+    }
+  ],
+   "SKINSMOD":
+  [
+      {
+      "id_category": "16",
+      "title": "Canter Herex Oto Gaek",
+      "category": "Truck",
+      "image": "https://cdn.jagocodingapps.my.id/bussid_AgADsg5rG1NvqFY.jpg",
+      "link_mods": "https://mapes3b.maybusid.my.id/modz/truk/CANTER%20SUMATERAAN%20V5%20SAWIT.zip",
+      "link_livery": "https://mapes3b.maybusid.my.id/modz/liv/oto%20gaek%20by%20garasi%20twoonemuda.png"
+    },
+ {
+      "id_category": "16",
+      "title": "Truck Canter SRX",
+      "category": "Truck",
+      "image": "https://cdn.jagocodingapps.my.id/bussid_AgADpw5rG1NvqFY.jpg",
+      "link_mods": "https://mapes3b.maybusid.my.id/modz/truk/CANTERVARSRXOFC.zip",
+      "link_livery": "https://mapes3b.maybusid.my.id/modz/liv/manual.png"
+    },
+
+      {
+  "id_category": "16",
+  "title": "Ragasa Herex",
+  "category": "Truck",
+  "image": "https://cdn.jagocodingapps.my.id/bussid_AgADTw1rG4fYKFU.jpg",
+  "link_mods": "https://mods.jagocodingapps.my.id/Ragasa_Herex.bussidmod.zip",
+  "link_livery": "https://livery.jagocodingapps.my.id/ragasa_kuning.png"
+}
+  ],
+  "SKINSORIGINAL":
+  [
+  {
+    "id_category": "30",
+    "title": "Snakeskull Road",
+    "category": "Maps",
+    "image": "https://i.pinimg.com/736x/82/8c/d4/828cd4b68adbdf9ba7ad4fb0f37aa57f.jpg",
+    "link_mods": "https://mapes5.maybusid.my.id/arcv/maps/Snakeskull_road.zip",
+    "link_livery": "null"
+  }
+  ],
+  "GUIDE":
+  [
+    {
+      "title_skins":"Cara Pasang Mod",
+      "image_skins":"https://i.pinimg.com/originals/4b/67/26/4b6726fcd99eae03239d99991b5a9dcb.jpg",
+      "url_guide":"file:///android_asset/html/installmod.html"
+    },
+    {
+      "title_skins":"Cara Pasang Livery",
+      "image_skins":"https://i.pinimg.com/originals/4b/67/26/4b6726fcd99eae03239d99991b5a9dcb.jpg",
+      "url_guide":"file:///android_asset/html/installlivery.html"
+    }
+  ]
+}
