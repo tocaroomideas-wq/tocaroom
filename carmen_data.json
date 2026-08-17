@@ -1,0 +1,68 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.ananda.alpardmod",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "null",
+      "main_ads_banner": "ca-app-pub-3061080223322017/6707897585",
+      "main_ads_intertitial": "ca-app-pub-3061080223322017/5171454633",
+      "main_ads_native": "ca-app-pub-3061080223322017/9469008476",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
+      "open_app_ads": "ca-app-pub-3061080223322017/4081734249",
+      "reward_ads": "ca-app-pub-3061080223322017/3858372964",
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+      "interval_intertitial": 2,
+      "native_interval": 8,
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "null",
+      "high_paying_keyword_3": "null",
+      "high_paying_keyword_4": "null",
+      "high_paying_keyword_5": "null"
+    }
+  ],
+  "Data": [
+    {
+      "title": "Toca Clue 1",
+      "image": "https://i.pinimg.com/736x/70/99/a3/7099a35b6b3f130648abf9ed44cc4cdb.jpg"
+    },
+    {
+      "title": "Toca Clue 2",
+      "image": "https://i.pinimg.com/1200x/54/cd/26/54cd267580fb02d348620413c8e9481e.jpg"
+    },
+    {
+      "title": "Toca Clue 3",
+      "image": "https://i.pinimg.com/1200x/e4/d8/f0/e4d8f0ac17f1151e428b05c2388439ea.jpg"
+    },
+    {
+      "title": "Toca Clue 4",
+      "image": "https://i.pinimg.com/1200x/5f/27/80/5f2780ed756f66eed48f0a21d342f0c8.jpg"
+    },
+    {
+      "title": "Toca Clue 5",
+      "image": "https://i.pinimg.com/736x/b8/f5/d1/b8f5d1d35877fed65a0aa1ee0d8d6972.jpg"
+    },
+    {
+      "title": "Toca Clue 6",
+      "image": "https://i.pinimg.com/736x/69/3f/20/693f206b501612437758111963883af9.jpg"
+    },
+    {
+      "title": "Toca Clue 7",
+      "image": "https://i.pinimg.com/736x/76/2c/6c/762c6cbdd0efb6147e0f6842ab9dfe8c.jpg"
+    },
+    {
+      "title": "Toca Clue 8",
+      "image": "https://i.pinimg.com/736x/0c/08/c2/0c08c2a568880fe33207bc293427d352.jpg"
+    },
+    {
+      "title": "Toca Clue 9",
+      "image": "https://i.pinimg.com/1200x/91/dd/4f/91dd4f4410197ff152f83abf31a8b6d6.jpg"
+    },
+    {
+      "title": "Toca Clue 10",
+      "image": "https://i.pinimg.com/736x/38/7a/cd/387acd528bd2a4077c671db442a60c09.jpg"
+    }
+  ]
+}
