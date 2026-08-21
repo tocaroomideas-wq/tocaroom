@@ -1,0 +1,436 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.loan.carmenwallpaperhd",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "null",
+      "main_ads_banner": "ca-app-pub-3061080223322017/5894146429",
+      "main_ads_intertitial": "ca-app-pub-3061080223322017/2803435889",
+      "main_ads_native": "ca-app-pub-3061080223322017/6722499596",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
+      "open_app_ads": "ca-app-pub-3061080223322017/4096336258",
+      "reward_ads": "ca-app-pub-3061080223322017/9177272544",
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+      "interval_intertitial": 2,
+      "native_interval": 8,
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "null",
+      "high_paying_keyword_3": "null",
+      "high_paying_keyword_4": "null",
+      "high_paying_keyword_5": "null"
+    }
+  ],
+  "Data": [
+     {
+            "title": "Dr Doom Clue1",
+            "image": "https://i.pinimg.com/736x/3d/cb/ec/3dcbec890effe39cbf26e64a0c8c5091.jpg"
+        },
+        {
+            "title": "Dr Doom Clue2",
+            "image": "https://i.pinimg.com/736x/c1/2c/b3/c12cb3128dc0d8e9feafc4e188bce341.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 3",
+            "image": "https://i.pinimg.com/736x/6b/4d/62/6b4d62c59ee401271f9ccb9fc803c805.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 4",
+            "image": "https://i.pinimg.com/736x/03/3c/cb/033ccbe797d7314323dff8880d876686.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 5",
+            "image": "https://i.pinimg.com/736x/28/7d/3c/287d3cb6a6e3d02fb8fd739aa7e52b07.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 6",
+            "image": "https://i.pinimg.com/736x/8f/08/07/8f080726a30db497402de19aac969ca2.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 7",
+            "image": "https://i.pinimg.com/736x/b0/42/d5/b042d543e26e3bcd403e927e49155929.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 8",
+            "image": "https://i.pinimg.com/1200x/99/17/0a/99170abfa7c9819100fc28a72522a5e4.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 9",
+            "image": "https://i.pinimg.com/1200x/80/23/e0/8023e08f400f677dfba1fdb175fe8a81.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 10",
+            "image": "https://i.pinimg.com/1200x/16/9b/de/169bde878d348976f972d3a3935bba43.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 11",
+            "image": "https://i.pinimg.com/1200x/7f/d2/2c/7fd22c4c1f41b5703637aa71e8d986b0.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 12",
+            "image": "https://i.pinimg.com/1200x/c3/cf/60/c3cf60b76d2063c6bc1a0c3627a3ae06.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 13",
+            "image": "https://i.pinimg.com/736x/94/7d/2c/947d2c2b1580177b2bb319ef2f5843d4.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 14",
+            "image": "https://i.pinimg.com/736x/9f/40/18/9f4018d0df8f2d85bd67bc6e593a4d20.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 15",
+            "image": "https://i.pinimg.com/1200x/9c/a2/66/9ca266effaefff9625bd96aba00a1e34.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 16",
+            "image": "https://i.pinimg.com/736x/70/d1/f4/70d1f43d5732dbdf02cca59320bd43a5.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 17",
+            "image": "https://i.pinimg.com/1200x/59/96/d0/5996d04c4c1bd28df4a15ffb5386908e.jpg"
+        },
+        {
+            "title": "Dr Doom Clue18",
+            "image": "https://i.pinimg.com/736x/eb/a8/9e/eba89ef8a93fead9fa1145c1b6e655ed.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 19",
+            "image": "https://i.pinimg.com/736x/d3/ce/49/d3ce49e299e30d8e3cd3d0cd0cc3a43a.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 20",
+            "image": "https://i.pinimg.com/736x/68/6c/b5/686cb5741ea8875fb4d16575f863dbef.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 21",
+            "image": "https://i.pinimg.com/736x/51/d1/63/51d16399fbf7601abf3dcd29319f6dc0.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 22",
+            "image": "https://i.pinimg.com/736x/1c/b9/96/1cb996f588a6842d00b236ef098e028e.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 23",
+            "image": "https://i.pinimg.com/736x/7d/d8/a3/7dd8a303872dcc04008327dc0a10f2f4.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 24",
+            "image": "https://i.pinimg.com/1200x/d2/a2/f5/d2a2f5a89649bd7fe5701362546786df.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 25",
+            "image": "https://i.pinimg.com/736x/8a/8c/3d/8a8c3d5773413353ed89e12b83b37eca.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 26",
+            "image": "https://i.pinimg.com/736x/3b/03/ca/3b03cab40f6e1e71139fbcd0d6f28b86.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 27",
+            "image": "https://i.pinimg.com/736x/80/5f/9c/805f9cf77169c322d63669c7d290faa5.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 28",
+            "image": "https://i.pinimg.com/736x/3e/25/f7/3e25f792148bbd297d6b7e9f6ba33c0c.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 29",
+            "image": "https://i.pinimg.com/736x/dd/17/2e/dd172ee51c5ff174d728c3265f92e23f.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 30",
+            "image": "https://i.pinimg.com/736x/29/e5/73/29e5730ab09a6b5345ffe044f2c22dc5.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 31",
+            "image": "https://i.pinimg.com/736x/55/31/09/5531095b7c15dbd095830991adbbec54.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 32",
+            "image": "https://i.pinimg.com/736x/a5/c8/c5/a5c8c5ab1ef5abcd93858cc05ebe9188.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 33",
+            "image": "https://i.pinimg.com/736x/fc/ed/77/fced7736cb4a2520341ba3f667236ad9.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 34",
+            "image": "https://i.pinimg.com/736x/1b/39/bc/1b39bcca324a81e5dea2267611818ecf.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 35",
+            "image": "https://i.pinimg.com/736x/27/b7/01/27b701d0209e258121806e4161787ea9.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 36",
+            "image": "https://i.pinimg.com/736x/61/37/5b/61375b03304fc2ad56f6256105ce4526.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 37",
+            "image": "https://i.pinimg.com/736x/08/c2/39/08c239803ab41d1dde5b4e092713f5fc.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 38",
+            "image": "https://i.pinimg.com/736x/9f/40/18/9f4018d0df8f2d85bd67bc6e593a4d20.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 39",
+            "image": "https://i.pinimg.com/736x/c8/a1/62/c8a16285f588a24b77b4946fd132193f.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 40",
+            "image": "https://i.pinimg.com/736x/66/fe/c2/66fec2f7d0b6c7a6c5610b540cc8202e.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 41",
+            "image": "https://i.pinimg.com/736x/a7/50/38/a750389c04f5c44979a21b3e03d62e5e.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 42",
+            "image": "https://i.pinimg.com/736x/29/45/cc/2945ccb31d2d4243a5608e553913857a.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 43",
+            "image": "https://i.pinimg.com/736x/e5/87/59/e587593bfdbae395e300b7b11755c43e.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 44",
+            "image": "https://i.pinimg.com/736x/03/4d/69/034d6965d0b9f90af451d251aac0ba1a.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 45",
+            "image": "https://i.pinimg.com/736x/bb/d6/e0/bbd6e0ae396eae25d3031ba9dbde5e6c.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 46",
+            "image": "https://i.pinimg.com/736x/95/ca/ad/95caad2530d8635662bea6e32b5edcaf.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 47",
+            "image": "https://i.pinimg.com/736x/8f/08/07/8f080726a30db497402de19aac969ca2.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 48",
+            "image": "https://i.pinimg.com/736x/cc/a4/7b/cca47b65006c3fcd3ad8b490c50b8246.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 49",
+            "image": "https://i.pinimg.com/736x/bd/14/c3/bd14c3a7ccf20edc94d79480254dd583.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 50",
+            "image": "https://i.pinimg.com/736x/3b/03/ca/3b03cab40f6e1e71139fbcd0d6f28b86.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 51",
+            "image": "https://i.pinimg.com/736x/c7/d3/ff/c7d3ff60bdbf0531a2e2ed80a4f3b9df.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 52",
+            "image": "https://i.pinimg.com/736x/1e/c4/31/1ec43148c06ea7ff2776cc04e5256396.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 53",
+            "image": "https://i.pinimg.com/736x/a2/fb/55/a2fb55efc835351dbcc2a847db9fbb07.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 54",
+            "image": "https://i.pinimg.com/736x/3c/f6/c1/3cf6c1553658595a9b71092e13a5d4e4.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 55",
+            "image": "https://i.pinimg.com/736x/54/ea/ad/54eaad71c98863c00be15a58cf72de45.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 56",
+            "image": "https://i.pinimg.com/736x/b1/87/8c/b1878c549c8cd0933d60cfc1886a63af.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 57",
+            "image": "https://i.pinimg.com/736x/59/3a/01/593a0111b830ff3253d0cd8999970be7.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 58",
+            "image": "https://i.pinimg.com/736x/16/27/31/162731c4688b7c2105085270311dca82.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 59",
+            "image": "https://i.pinimg.com/736x/47/9d/43/479d43c7c2a696760f1e23f7cf1a09ca.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 60",
+            "image": "https://i.pinimg.com/1200x/a4/92/9c/a4929ccfbbde6ab735475779b75d2ba7.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 61",
+            "image": "https://i.pinimg.com/736x/d3/ce/49/d3ce49e299e30d8e3cd3d0cd0cc3a43a.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 62",
+            "image": "https://i.pinimg.com/736x/cb/99/25/cb99252f07bb9e78e90f4f4bdf575314.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 63",
+            "image": "https://i.pinimg.com/1200x/c7/3a/51/c73a519d58b29c6b874405799d6cef31.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 64",
+            "image": "https://i.pinimg.com/736x/e5/18/4f/e5184f65d2a0f3c9d70e0dcf121e9eb6.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 65",
+            "image": "https://i.pinimg.com/736x/eb/a8/9e/eba89ef8a93fead9fa1145c1b6e655ed.jpg"
+        },
+                 {
+            "title": "Dr Doom Clue 66",
+            "image": "https://i.pinimg.com/736x/2e/e7/bd/2ee7bdbed2122f918a02f31063b21754.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 67",
+            "image": "https://i.pinimg.com/736x/83/ce/e1/83cee18309ed60f7d62f6442f0c5a30f.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 68",
+            "image": "https://i.pinimg.com/736x/b0/18/f9/b018f9401819360ada9391eea890cff9.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 69",
+            "image": "https://i.pinimg.com/736x/f1/97/14/f1971401a6c234b27a8f48d0f6904f3d.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 70",
+            "image": "https://i.pinimg.com/736x/1e/89/bf/1e89bfef2fc2a45af2b59260b00cb0ee.jpg"
+        }, 
+        {
+            "title": "Dr Doom Clue 71",
+            "image": "https://i.pinimg.com/736x/33/d2/d9/33d2d951af0df67b2259d5ce0c711888.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 72",
+            "image": "https://i.pinimg.com/1200x/09/df/fd/09dffd193f19124ab63c943cd4f2ed27.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 73",
+            "image": "https://i.pinimg.com/736x/93/18/1f/93181f59fb78b9823c92f6067a8b72b8.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 74",
+            "image": "https://i.pinimg.com/736x/be/86/8f/be868f07154e10bbc70828a407546f12.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 75",
+            "image": "https://i.pinimg.com/736x/91/89/6d/91896d8336a8605296c37fe4ccb8ca62.jpg"
+        },
+        {
+            "title": "TDr Doom Clue 76",
+            "image": "https://i.pinimg.com/1200x/69/86/12/6986120ceb83b3ad5db21c2f4eb7b9ed.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 77",
+            "image": "https://i.pinimg.com/1200x/30/bc/b4/30bcb4ad16bf18af08430424ddaeb786.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 78",
+            "image": "https://i.pinimg.com/736x/51/b5/10/51b510b23256d800c70ae58ffa198d3c.jpg"
+        },
+        {
+            "title": "Dr Doom Clue79",
+            "image": "https://i.pinimg.com/736x/2e/a6/91/2ea69159f3c023b30bc852d5ecd02c02.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 80",
+            "image": "https://i.pinimg.com/736x/7a/d8/42/7ad842ec3dd54e8a8b59d835bf9ba04c.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 81",
+            "image": "https://i.pinimg.com/736x/3c/a8/a3/3ca8a37245084c77126b7c5b046f6f1d.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 82",
+            "image": "https://i.pinimg.com/1200x/4a/4e/c2/4a4ec28bc187b02a971e3b3048a7f3c6.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 83",
+            "image": "https://i.pinimg.com/736x/11/49/b9/1149b9579a1a6068b0f8655c87011987.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 84",
+            "image": "https://i.pinimg.com/736x/21/af/f9/21aff9c520f69c0e5ef2436afd4a32a8.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 85",
+            "image": "https://i.pinimg.com/736x/ea/9f/0e/ea9f0e258ed846bb5c79f5a5307586ec.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 86",
+            "image": "https://i.pinimg.com/736x/d6/6f/79/d66f79dadc4c40e39d0b8bb419187f55.jpg"
+        },
+        {
+            "title": "TDr Doom Clue 87",
+            "image": "https://i.pinimg.com/736x/91/89/6d/91896d8336a8605296c37fe4ccb8ca62.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 88",
+            "image": "https://i.pinimg.com/736x/4e/da/f8/4edaf8e8239e601d5528289fd30e4f0c.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 89",
+            "image": "https://i.pinimg.com/736x/35/bc/33/35bc332d19727fec89b0fd1c4666d24d.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 90",
+            "image": "https://i.pinimg.com/736x/7b/c3/ff/7bc3fffc7000b6c65e910979e2b3f007.jpg"
+        },
+        {
+            "title": "TDr Doom Clue 91",
+            "image": "https://i.pinimg.com/736x/76/a3/c5/76a3c5b6660dcb41b9e3570ec5f13ada.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 92",
+            "image": "https://i.pinimg.com/736x/38/21/ad/3821ad724806fdf4e6cb4f6f3f9aa48a.jpg"
+        },
+         {
+            "title": "Dr Doom Clue 93",
+            "image": "https://i.pinimg.com/736x/b6/e8/60/b6e860bcf28765cdeba6ba5684809897.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 94",
+            "image": "https://i.pinimg.com/736x/95/98/8d/95988d215f901c129b103bc1e4a5eea4.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 95",
+            "image": "https://i.pinimg.com/736x/59/78/b4/5978b4f8de49d43bfa62351c647ef04c.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 96",
+            "image": "https://i.pinimg.com/736x/dd/7e/28/dd7e2881a2304d4fc9d9c2fc502ab4ea.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 97",
+            "image": "https://i.pinimg.com/736x/13/9d/d7/139dd77b2dc2fa2a2ea4b0d9337ded26.jpg"
+        },
+                 {
+            "title": "Dr Doom Clue 98",
+            "image": "https://i.pinimg.com/736x/53/40/09/53400902e8f2fde43e1cc0ec0bef8c52.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 99",
+            "image": "https://i.pinimg.com/736x/c5/b7/c6/c5b7c6d60ff664f60deea5132f4736f5.jpg"
+        },
+        {
+            "title": "Dr Doom Clue100",
+            "image": "https://i.pinimg.com/736x/b6/d0/55/b6d055caae8bd23799e341dbedd0e792.jpg"
+        },
+        {
+            "title": "TDr Doom Clue 101",
+            "image": "https://i.pinimg.com/736x/2a/2a/30/2a2a30392e98ff8ae1b204bf97e6389d.jpg"
+        },
+        {
+            "title": "Dr Doom Clue 102",
+            "image": "https://i.pinimg.com/736x/c2/15/71/c21571017daba3dd26f3a05c58dfaa4f.jpg"
+        }
+  ]
+}
