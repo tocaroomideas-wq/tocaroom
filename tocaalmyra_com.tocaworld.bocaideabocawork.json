@@ -1,0 +1,48 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.tocaworld.bocaideabocawork",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "null",
+      "main_ads_banner": "ca-app-pub-3061080223322017/3412814121",
+      "main_ads_intertitial": "ca-app-pub-3061080223322017/8779701195",
+      "main_ads_native": "ca-app-pub-3061080223322017/9510434130",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
+      "open_app_ads": "ca-app-pub-3061080223322017/1180412774",
+      "reward_ads": "ca-app-pub-3061080223322017/7466619524",
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+      "interval_intertitial": 2,
+      "native_interval": 8,
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "null",
+      "high_paying_keyword_3": "null",
+      "high_paying_keyword_4": "null",
+      "high_paying_keyword_5": "null"
+    }
+  ],
+  "Data": [
+    {
+      "title": "Toca Clue ",
+      "image": "https://i.pinimg.com/736x/55/a8/f2/55a8f29b576ec2310560b7f1a2d8d519.jpg"
+    },
+    {
+      "title": "Toca Clue ",
+      "image": "https://i.pinimg.com/736x/c1/4a/cd/c14acdd0914d0de9dd8968a83f23224f.jpg"
+    },
+    {
+      "title": "Toca Clue ",
+      "image": "https://i.pinimg.com/736x/57/c1/09/57c109670165615f7d2ad5a7532a5dd4.jpg"
+    },
+    {
+      "title": "Toca Clue ",
+      "image": "https://i.pinimg.com/736x/7d/3e/60/7d3e608930817298909145cd1cb451e0.jpg"
+    },
+    {
+      "title": "Toca Clue ",
+      "image": "https://i.pinimg.com/736x/ba/88/e1/ba88e1826025a65d50abb9dbd249a66f.jpg"
+    }
+  ]
+}
