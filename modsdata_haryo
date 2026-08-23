@@ -4,19 +4,16 @@
       "select_ads": "ADMOB",
       "backup_ads": "MAX",
       "enable_ads": true,
-      
       "inter_main": "ca-app-pub-3940256099942544/1033173712",
       "native_main": "ca-app-pub-3940256099942544/2247696110",
       "banner_main": "ca-app-pub-3940256099942544/6300978111",
       "reward_main": "ca-app-pub-3940256099942544/5224354917",
       "open_main": "ca-app-pub-3940256099942544/9257395921",
-      
       "inter_backup": "a4ff9e9ec936b3da",
       "native_backup": "null",
       "banner_backup": "",
       "reward_backup": "26acb22e17e64573",
       "open_backup": "null",
-      
       "on_off_native_listview": "1",
       "interval_native": 12,
       "status_app": "0",
@@ -33,85 +30,80 @@
       "on_off_offline_skins": "0"
     }
   ],
-  "CATEGORY":
-  [
-      {
-    "id_category" :16,
-    "title": "Truck",
-    "image": "https://i.pinimg.com/originals/3a/80/13/3a8013bcfc4dbb7e453942e4f7c1894d.jpg"
-  },
-   {
-    "id_category" : 17,
-    "title": "Bus",
-    "image": "https://i.pinimg.com/originals/11/56/18/115618fc433a03fab72a683a1b2cbd30.jpg"
-  },
-   {
-    "id_category" : 18,
-    "title": "Motor",
-    "image": "https://i.pinimg.com/originals/c8/75/69/c87569af3bafee775157c93006af028e.jpg"
-  },
-   {
-    "id_category" : 19,
-    "title": "Mobil",
-    "image": "https://i.pinimg.com/originals/16/15/ce/1615ce5973eb626c3f6a6f848c960d13.jpg"
-  },
+  "CATEGORY": [
     {
-    "id_category" : 23,
-    "title": "Livery Yudistira",
-    "image": "https://i.pinimg.com/736x/c5/4a/7b/c54a7b4e3e94e0ed252d105e71617f7b.jpg"
-  },
-   {
-    "id_category" : 24,
-    "title": "Livery Nakula",
-    "image": "https://i.pinimg.com/736x/50/8c/3f/508c3f8ec9015b2a8bf5c9ac8d518d8a.jpg"
-  },
-  {
-    "id_category": 25,
-    "title": "Livery Sadewa",
-    "image": "https://i.pinimg.com/736x/50/8c/3f/508c3f8ec9015b2a8bf5c9ac8d518d8a.jpg"
-  },
-  {
-    "id_category": 26,
-    "title": "Livery Arjuna",
-    "image": "https://i.pinimg.com/736x/d2/fb/eb/d2fbebe7c975d75f6ed992108fe972c8.jpg"
-  },
-  {
-    "id_category": 27,
-    "title": "Livery Bimasena",
-    "image": "https://i.pinimg.com/736x/b5/b2/d8/b5b2d84e254f0ffe55b4e1888bd0e024.jpg"
-  },
-  {
-    "id_category": 28,
-    "title": "Livery Srikandi",
-    "image": "https://i.pinimg.com/736x/72/c8/f7/72c8f77379322f4e8d0e2f0f046cab23.jpg"
-  }
-
+      "id_category": 16,
+      "title": "Truck",
+      "image": "https://i.pinimg.com/originals/3a/80/13/3a8013bcfc4dbb7e453942e4f7c1894d.jpg"
+    },
+    {
+      "id_category": 17,
+      "title": "Bus",
+      "image": "https://i.pinimg.com/originals/11/56/18/115618fc433a03fab72a683a1b2cbd30.jpg"
+    },
+    {
+      "id_category": 18,
+      "title": "Motor",
+      "image": "https://i.pinimg.com/originals/c8/75/69/c87569af3bafee775157c93006af028e.jpg"
+    },
+    {
+      "id_category": 19,
+      "title": "Mobil",
+      "image": "https://i.pinimg.com/originals/16/15/ce/1615ce5973eb626c3f6a6f848c960d13.jpg"
+    },
+    {
+      "id_category": 23,
+      "title": "Livery Yudistira",
+      "image": "https://i.pinimg.com/736x/c5/4a/7b/c54a7b4e3e94e0ed252d105e71617f7b.jpg"
+    },
+    {
+      "id_category": 24,
+      "title": "Livery Nakula",
+      "image": "https://i.pinimg.com/736x/50/8c/3f/508c3f8ec9015b2a8bf5c9ac8d518d8a.jpg"
+    },
+    {
+      "id_category": 25,
+      "title": "Livery Sadewa",
+      "image": "https://i.pinimg.com/736x/50/8c/3f/508c3f8ec9015b2a8bf5c9ac8d518d8a.jpg"
+    },
+    {
+      "id_category": 26,
+      "title": "Livery Arjuna",
+      "image": "https://i.pinimg.com/736x/d2/fb/eb/d2fbebe7c975d75f6ed992108fe972c8.jpg"
+    },
+    {
+      "id_category": 27,
+      "title": "Livery Bimasena",
+      "image": "https://i.pinimg.com/736x/b5/b2/d8/b5b2d84e254f0ffe55b4e1888bd0e024.jpg"
+    },
+    {
+      "id_category": 28,
+      "title": "Livery Srikandi",
+      "image": "https://i.pinimg.com/736x/72/c8/f7/72c8f77379322f4e8d0e2f0f046cab23.jpg"
+    }
   ],
-  "CAROUSEL":
-  [
-      
-   {
+  "CAROUSEL": [
+    {
       "title": "QQ Trans JB3+ Hino RK8",
       "image": "https://i.pinimg.com/736x/ac/90/ef/ac90efb7584e1af0b5cbc513c145ca81.jpg",
       "link_mods": "https://mapes2.maybusid.my.id/modz/bus/JB3+%20SHD%20HINO%20RK8.bussidmod",
       "link_livery": "https://mapes4.maybusid.my.id/modz/liv/Winspector.png"
     },
-{
+    {
       "title": "STJ Armagedon JB3+ Hino RK8",
       "image": "https://i.pinimg.com/736x/6c/bb/f9/6cbbf9fbb3b92c93bd33b1c2f3e91353.jpg",
       "link_mods": "https://mapes2.maybusid.my.id/modz/bus/JB3+%20SHD%20HINO%20RK8.bussidmod",
       "link_livery": "https://mapes4.maybusid.my.id/modz/liv/TJ%20ARMAGEDDON%20FULL%20BANNER%20BY%20JHOJHOPHAI.png"
-    }, 
-{
+    },
+    {
       "title": "STJ Mooneyes JB3+ Hino RK8",
       "image": "https://i.pinimg.com/736x/97/11/6f/97116ffa4761ee83e2b34b91f6d1e9db.jpg",
       "link_mods": "https://mapes2.maybusid.my.id/modz/bus/JB3+%20SHD%20HINO%20RK8.bussidmod",
       "link_livery": "https://mapes4.maybusid.my.id/modz/liv/MOONEYES%20FULL%20BANNER%20BY%20JHOJHOPHAI.png"
     }
   ],
-   "SKINSMOD":
-  [
-      {
+  "SKINSMOD": [
+    {
       "id_category": "16",
       "title": "Canter Herex Oto Gaek",
       "category": "Truck",
@@ -119,7 +111,7 @@
       "link_mods": "https://mapes3b.maybusid.my.id/modz/truk/CANTER%20SUMATERAAN%20V5%20SAWIT.zip",
       "link_livery": "https://mapes3b.maybusid.my.id/modz/liv/oto%20gaek%20by%20garasi%20twoonemuda.png"
     },
- {
+    {
       "id_category": "16",
       "title": "Truck Canter SRX",
       "category": "Truck",
@@ -127,38 +119,235 @@
       "link_mods": "https://mapes3b.maybusid.my.id/modz/truk/CANTERVARSRXOFC.zip",
       "link_livery": "https://mapes3b.maybusid.my.id/modz/liv/manual.png"
     },
-
-      {
-  "id_category": "16",
-  "title": "Ragasa Herex",
-  "category": "Truck",
-  "image": "https://cdn.jagocodingapps.my.id/bussid_AgADTw1rG4fYKFU.jpg",
-  "link_mods": "https://mods.jagocodingapps.my.id/Ragasa_Herex.bussidmod.zip",
-  "link_livery": "https://livery.jagocodingapps.my.id/ragasa_kuning.png"
-}
-  ],
-  "SKINSORIGINAL":
-  [
-  {
-    "id_category": "30",
-    "title": "Snakeskull Road",
-    "category": "Maps",
-    "image": "https://i.pinimg.com/736x/82/8c/d4/828cd4b68adbdf9ba7ad4fb0f37aa57f.jpg",
-    "link_mods": "https://mapes5.maybusid.my.id/arcv/maps/Snakeskull_road.zip",
-    "link_livery": "null"
-  }
-  ],
-  "GUIDE":
-  [
     {
-      "title_skins":"Cara Pasang Mod",
-      "image_skins":"https://i.pinimg.com/originals/4b/67/26/4b6726fcd99eae03239d99991b5a9dcb.jpg",
-      "url_guide":"file:///android_asset/html/installmod.html"
+      "id_category": "16",
+      "title": "Ragasa Herex",
+      "category": "Truck",
+      "image": "https://cdn.jagocodingapps.my.id/bussid_AgADTw1rG4fYKFU.jpg",
+      "link_mods": "https://mods.jagocodingapps.my.id/Ragasa_Herex.bussidmod.zip",
+      "link_livery": "https://livery.jagocodingapps.my.id/ragasa_kuning.png"
     },
     {
-      "title_skins":"Cara Pasang Livery",
-      "image_skins":"https://i.pinimg.com/originals/4b/67/26/4b6726fcd99eae03239d99991b5a9dcb.jpg",
-      "url_guide":"file:///android_asset/html/installlivery.html"
+      "id_category": "27",
+      "title": "Budiman",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6996aeec1_1784637846.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6996f3a50_1784637846.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6996f3a50_1784637846.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Karina",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6a6614a1b_1784638054.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6a665835a_1784638054.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6a665835a_1784638054.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Sinar Dempo",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6aba751c9_1784638138.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6abac03e0_1784638138.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6abac03e0_1784638138.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Laju Prima",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6b3ceac8b_1784638268.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6b3d4bd7e_1784638269.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6b3d4bd7e_1784638269.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Kramat Djati",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6b8bdfb8e_1784638347.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6b8c29a2b_1784638348.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6b8c29a2b_1784638348.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Medan Jaya",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6bfa96e0e_1784638458.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6bfae6d66_1784638458.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6bfae6d66_1784638458.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Sumber Alam",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6c375c070_1784638519.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6c379b9d1_1784638519.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6c379b9d1_1784638519.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Shantika",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6c848a39b_1784638596.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6c84d39e1_1784638596.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6c84d39e1_1784638596.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Sinar Jaya",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6d0ddc696_1784638733.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6d0e24649_1784638734.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6d0e24649_1784638734.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Maju Lancar",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6d765cb89_1784638838.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6d769cb89_1784638838.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6d769cb89_1784638838.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Pahala Kencana",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f6e0a6044b_1784638986.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f6e0ab25ea_1784638986.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f6e0ab25ea_1784638986.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Gunung Harta",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f719b3bf76_1784639899.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f719b88a29_1784639899.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f719b88a29_1784639899.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Lorena",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f719d512ae_1784639901.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f719db959b_1784639901.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f719db959b_1784639901.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Karunia Bakti",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f719f582d5_1784639903.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f719fa122a_1784639903.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f719fa122a_1784639903.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Adhi Putra",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f71a1b3f25_1784639905.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f71a20966c_1784639906.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f71a20966c_1784639906.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Rosalia Indah",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f71a3e3a5a_1784639907.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f71a457694_1784639908.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f71a457694_1784639908.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Putra Pelangi",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f74021069f_1784640514.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f74025e406_1784640514.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f74025e406_1784640514.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Nusantara",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f742164b90_1784640545.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f7421bc1ab_1784640545.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f7421bc1ab_1784640545.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Sugeng Rahayu",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f743d04ee8_1784640573.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f743d47021_1784640573.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f743d47021_1784640573.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Po Haryanto",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f744e81635_1784640590.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f744ee1266_1784640590.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f744ee1266_1784640590.png"
+    },
+    {
+      "id_category": "27",
+      "title": "NPM",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f746f0712f_1784640623.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f746f4f400_1784640623.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f746f4f400_1784640623.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Handoyo",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f7774ca9a5_1784641396.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f7775b77f5_1784641397.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f7775b77f5_1784641397.png"
+    },
+    {
+      "id_category": "27",
+      "title": "PHB",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f777688011_1784641398.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f777765eea_1784641399.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f777765eea_1784641399.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Pandawa 87",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f7778c563b_1784641400.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f7779aee47_1784641401.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f7779aee47_1784641401.png"
+    },
+    {
+      "id_category": "27",
+      "title": "Falisha",
+      "category": "Livery Bimasena",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a5f777ba0d2a_1784641403.jpeg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/images/6a5f777c77f7d_1784641404.png",
+      "link_livery": "https://cdn.bussidseratusmilyar.com/images/6a5f777c77f7d_1784641404.png"
+    }
+  ],
+  "SKINSORIGINAL": [
+    {
+      "id_category": "30",
+      "title": "Snakeskull Road",
+      "category": "Maps",
+      "image": "https://i.pinimg.com/736x/82/8c/d4/828cd4b68adbdf9ba7ad4fb0f37aa57f.jpg",
+      "link_mods": "https://mapes5.maybusid.my.id/arcv/maps/Snakeskull_road.zip",
+      "link_livery": "null"
+    }
+  ],
+  "GUIDE": [
+    {
+      "title_skins": "Cara Pasang Mod",
+      "image_skins": "https://i.pinimg.com/originals/4b/67/26/4b6726fcd99eae03239d99991b5a9dcb.jpg",
+      "url_guide": "file:///android_asset/html/installmod.html"
+    },
+    {
+      "title_skins": "Cara Pasang Livery",
+      "image_skins": "https://i.pinimg.com/originals/4b/67/26/4b6726fcd99eae03239d99991b5a9dcb.jpg",
+      "url_guide": "file:///android_asset/html/installlivery.html"
     }
   ]
 }
