@@ -710,6 +710,438 @@
       "image": "https://cdn.bussidseratusmilyar.com/images/6a476b63dd7b0_1783065443.jpg",
       "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a476b6445ee0_1783065444.bussidmod",
       "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Rossi YZR",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a45c3894763a_1782956937.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a45c38994282_1782956937.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "RR Sapu Angin",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a45c4f797c40_1782957303.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a45c4f7eb155_1782957303.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MOD GOSEND MOTOR BEAT BUSSID FREE BY AZUMODS",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4603faa7183_1782973434.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4603fb037ef_1782973435.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MOD GOJEK SUPRA BUSSID FREE BY AZUMODS",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4605ab37ab9_1782973867.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4605ab9cdab_1782973867.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MOD GOJEK MOTOR BEAT BUSSID FREE BY AZUMODS",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4605b45c3f5_1782973876.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4605b4b85fc_1782973876.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MOD GOJEK NMAX 155cc BUSSID FREE BY AZUMODS",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4605d3654cb_1782973907.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4605d3c79a4_1782973907.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Mod GOJEK Honda CRF BUSSID FREE BY AZUMODS",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4605d7412af_1782973911.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4605d795752_1782973911.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Yamaha R1M V3 Ban Cacing Standar",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a460e2e6efde_1782976046.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a460e2ed5ae5_1782976046.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Yamaha YZF R15 155cc",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a460e8284257_1782976130.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a460e82d3e1f_1782976130.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Yamaha R1M V2 Speed",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a460f14de92a_1782976276.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a460f155886e_1782976277.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Yamaha Mio Drag Racing 200cc",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a460f7396ac3_1782976371.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a460f740704d_1782976372.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vespa Matic",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a460fac6c038_1782976428.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a460facd13dc_1782976428.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Harley Davidson",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4611537f440_1782976851.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461153d0526_1782976851.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Ducati Monster 1200 S cvt",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4611a167f0e_1782976929.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4611a1b4946_1782976929.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "CBR 300R TERBARU",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461211d12ff_1782977041.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a46121233357_1782977042.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Motor Tiger CJDW",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a46126e4bc1f_1782977134.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a46126eb40e6_1782977134.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "BMW R1200 GS",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4612dee3b0f_1782977246.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4612df3f7ec_1782977247.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Herex Barbara",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461971610cd_1782978929.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461971ce2cd_1782978929.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Astrea Legend",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461a4b8b93c_1782979147.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461a4bf1168_1782979147.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Hayabusa 1300CC",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461abfde938_1782979263.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461ac03fa1b_1782979264.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Herex milkita",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461affa19d4_1782979327.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461ffedb23_1782979327.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Honda C70",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461dc02039c_1782980032.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461dc071ede_1782980032.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Beat Camera Penumpang",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461e235ceb3_1782980131.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461e23c55db_1782980131.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Honda CB150R Merah",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a461e708711d_1782980208.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a461e70d6047_1782980208.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "RX king 2",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a462d79a3d1d_1782984057.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a462d7a13ee3_1782984058.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vario modiff",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a462dd94ed4c_1782984153.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a462dd9a3fa0_1782984153.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vespa Matic 1",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a462e8bb45fd_1782984331.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a462e8c112b9_1782984332.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vespa Matic 2",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a462ee7cffff_1782984423.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a462ee83e644_1782984424.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Timun OD Motor",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4630941731f_1782984852.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4630946cf39_1782984852.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Kawasaki Z800 FA",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a463137a10c6_1782985015.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a46313808709_1782985016.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MP Aganta",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4631dce572c_1782985180.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4631dd47132_1782985181.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MP Piloter",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a463235e521a_1782985269.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4632364584c_1782985270.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Tiger mod",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4634ff0906a_1782985983.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4634ff6f812_1782985983.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Cbr600rr3",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a46356256a8f_1782986082.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a463562cd3f1_1782986082.bussidvehicle",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Zx 25R",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4635fb96184_1782986235.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4635fbeda05_1782986235.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Ninja 150 RR",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a46367e978a5_1782986366.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a46367ef3569_1782986366.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Bmw s150r",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a463726b1412_1782986534.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a463727101d3_1782986535.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "BMW S100RR",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4637d51aecf_1782986709.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4637d56e4c4_1782986709.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Yamaha YZF R15 Gojek",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4638868b43b_1782986886.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a463886e0db9_1782986886.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "MX KING 150",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a463910947db_1782987024.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a463910e6cb4_1782987024.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "CBR 150 KNALPOT",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a463983de6f5_1782987139.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4639844da28_1782987140.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vario 150 modif",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a476449254b7_1783063625.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4764498f511_1783063625.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Ninja 150 RR Drag",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a47650fbd919_1783063823.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a47651036627_1783063824.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "KTM Duke 150",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4765a365ee7_1783063971.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4765a3d3bee_1783063971.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Mio Drag modd",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a47660c4ce00_1783064076.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a47660cd87c5_1783064076.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Ninja h2r",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4766dcd034a_1783064284.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4766dd5d02e_1783064285.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "RX king",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a476756466b6_1783064406.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a476756ae961_1783064406.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Satria Fu",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4767d19d96c_1783064529.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4767d1e4811_1783064529.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vespa Omah Gedek",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a476829a97ce_1783064617.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a47682a15e33_1783064618.bussidvehicle",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Vespa Super 150",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a4768afe80f9_1783064751.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4768b03fdc6_1783064752.bussidvehicle",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Viar Bak Terbuka",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a47690021276_1783064832.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a4769006d73d_1783064832.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "CBR 300R TERBARU",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a476bb663cf2_1783065526.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a476bb6c0cec_1783065526.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Honda pcx",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a476ca04e326_1783065760.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a476ca098541_1783065760.bussidmod",
+      "link_livery": "null"
+    },
+    {
+      "id_category": "18",
+      "title": "Supra X Gojek 125cc",
+      "category": "Motor",
+      "image": "https://cdn.bussidseratusmilyar.com/images/6a476cf82527c_1783065848.jpg",
+      "link_mods": "https://cdn.bussidseratusmilyar.com/mods/6a476cf87610f_1783065848.bussidmod",
+      "link_livery": "null"
     }
   ],
   "SKINSORIGINAL": [
