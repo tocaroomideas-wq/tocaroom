@@ -1,5 +1,5 @@
 {
-  "show_ads": true,
+  "show_ads": false,
   "active_network": "admob",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
